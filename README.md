@@ -4,6 +4,10 @@ Public aggregate analysis of VPN provider infrastructure relationships.
 
 This repository does **not** publish raw VPN IP lists. It publishes aggregate signals that can help researchers understand when VPN brands appear to share backend infrastructure, hosting operators, or network footprints.
 
+VPN Provider Overlap Intelligence is a public aggregate network intelligence dataset for VPN detection research, IP reputation, fraud detection, and proxy/VPN infrastructure analysis.
+
+It focuses on VPN provider infrastructure overlap: exact shared IP observations, shared /24 prefixes, hosting provider dependency, ASN organization footprint, and provider relationship clusters.
+
 The analysis is designed for defensive research, fraud/risk feature engineering, source-quality review, and VPN/proxy detection methodology.
 
 ## What This Is
@@ -123,3 +127,24 @@ See [`docs/methodology.md`](docs/methodology.md).
 ## Safe Interpretation Notes
 
 See [`docs/safe_interpretation.md`](docs/safe_interpretation.md).
+
+## Use Cases
+
+- VPN and proxy detection research
+- IP reputation enrichment
+- fraud and abuse risk scoring
+- provider infrastructure clustering
+- source quality review
+- hosting dependency analysis
+- network intelligence investigations
+
+## Not Intended For
+
+- blocking entire ASNs;
+- claiming common provider ownership;
+- labeling all IPs in a /24 as VPN;
+- replacing IP-level VPN detection;
+- legal, compliance, or enforcement decisions without additional verification.
+
+CC BY-NC 4.0
+
