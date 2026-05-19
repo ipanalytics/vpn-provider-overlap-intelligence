@@ -1,0 +1,90 @@
+provider,unique_ips,asn_count,hosting_org_count,top_hosting_org,top_host_share_percent,independence_score,concentration_level
+NordVPN,9417,35,32,CDNEXT,28.76,100,moderate
+WLVPN,3407,31,31,NETPROTECT-62651,43.91,92,concentrated
+IPVanish,3389,31,31,NETPROTECT-62651,44.11,92,concentrated
+Astrill,2723,153,152,CLOUVIDER Clouvider - Global ASN,19.79,100,distributed
+CyberGhost,2685,22,23,CDNEXT,32.7,97,moderate
+AirVPN,2024,15,15,M247,29.64,92,moderate
+ProtonVPN,1568,42,42,CDNEXT,36.29,100,moderate
+Sentinel dVPN,1207,220,218,AS-COLOCROSSING,20.05,100,moderate
+Mullvad,1145,27,26,TZULO,22.18,100,moderate
+Windscribe,1020,58,58,CDNEXT,27.84,100,moderate
+WiTopia,617,48,49,M247,20.26,100,moderate
+StrongVPN,539,23,24,STRTEC,41.93,91,concentrated
+Private Internet Access,474,24,25,GSLNETWORKS-AS-AP GSL Networks Pty LTD,27.85,100,moderate
+TunnelBear,456,15,15,M247,30.04,92,moderate
+TorGuard,437,19,20,M247,83.07,56,highly_concentrated
+Psiphon,430,14,14,AKAMAI-LINODE-AP Akamai Connected Cloud,28.14,92,moderate
+PureVPN,419,27,27,CDNEXT,30.31,100,moderate
+ExpressVPN,392,22,22,SECFIREWALLAS,26.53,100,moderate
+VPN Unlimited,327,35,35,AS-VULTR,20.49,100,moderate
+Anonine,304,32,31,M247,16.78,100,distributed
+EasyHideIP,299,31,30,M247,17.06,100,distributed
+FrootVPN,297,31,30,M247,17.17,100,distributed
+BoxPN,291,31,30,M247,17.53,100,distributed
+Surfshark,280,20,19,CYBERZONEHUB,42.5,86,concentrated
+FlowVPN,250,111,110,"ONEPROVIDER-AS BrainStorm Network, Inc",11.6,100,distributed
+Njalla,241,1,1,ABSTRACT,100.0,26,highly_concentrated
+VPN Jantit,192,55,55,"ALIBABA-CN-NET Alibaba US Technology Co., Ltd.",11.46,100,distributed
+WorldVPN,182,17,17,HETZNER-AS,34.07,91,moderate
+Privado,171,5,5,BIP-AS BIP Backbone ASN,52.05,66,concentrated
+PrivateVPN,157,42,42,PVDATANET,24.84,100,moderate
+VPN.ac,148,32,33,M247,13.51,100,distributed
+IVPN,138,29,30,CDN77 _,28.99,100,moderate
+GhostPath,127,66,67,AKAMAI-LINODE-AP Akamai Connected Cloud,18.11,100,distributed
+Vpnht,106,15,16,Unknown,24.53,97,moderate
+OVPN,98,8,8,OBEHOSTING Obehosting AB,69.39,56,concentrated
+VPN Gate,96,34,34,KIXS-AS-KR Korea Telecom,18.75,100,distributed
+Trust.Zone,90,24,24,M247,44.44,89,concentrated
+VPNUK,87,21,22,CWCS-VM CompuWeb Communications Services Ltd,20.69,100,moderate
+Zoogvpn,84,44,44,"ONEPROVIDER-AS BrainStorm Network, Inc",14.29,100,distributed
+SwitchVPN,82,23,23,AS-VULTR,35.37,95,moderate
+Ivacy,80,20,20,CDNEXT,30.0,97,moderate
+Cryptostorm,76,16,16,M247,61.84,69,concentrated
+Giganews,73,2,2,PHMGMT-AS1,73.97,46,highly_concentrated
+VyprVPN,73,2,2,PHMGMT-AS1,73.97,46,highly_concentrated
+FastestVPN,69,13,13,M247,55.07,71,concentrated
+KevinVPN,67,29,28,CLOUVIDER Clouvider - Global ASN,11.94,100,distributed
+AzireVPN,64,21,21,CDN77 _,29.69,98,moderate
+Kompot VPN,62,14,14,PLI-AS,20.97,98,moderate
+CactusVPN,60,38,38,OVH,13.33,100,distributed
+VPNSecure,60,16,16,OVH,48.33,79,concentrated
+OysterVPN,51,8,8,"ONEPROVIDER-AS BrainStorm Network, Inc",72.55,53,highly_concentrated
+Smartdnsproxy,51,24,24,M247,31.37,99,moderate
+Goosevpn,50,5,5,M247,76.0,48,highly_concentrated
+Hotspotshield,44,15,16,M247,31.82,91,moderate
+AnonymousVPN,43,20,20,THE,30.23,96,moderate
+Safervpn,39,23,23,AS-VULTR,17.95,100,distributed
+Opera VPN,38,1,1,HERNLABS,100.0,26,highly_concentrated
+RedShield VPN,37,11,11,CDN77 _,32.43,86,moderate
+HideIPVPN,36,15,15,OVH,30.56,91,moderate
+FreeVPN,26,14,14,PONYNET,38.46,84,moderate
+uVPN,26,8,8,DIGITALOCEAN-ASN,38.46,79,moderate
+Proxpn,24,9,10,FDCSERVERS,33.33,84,moderate
+Le VPN,23,9,9,M247,34.78,82,moderate
+Froot,22,10,10,GLESYS glesys.com,45.45,75,concentrated
+Getflix,21,17,17,AS-VULTR,9.52,100,distributed
+Riseup VPN,21,5,5,Online SAS,61.9,58,concentrated
+PhantomPeer,20,4,4,DIGITALOCEAN-ASN,70.0,51,highly_concentrated
+NetShade,18,6,6,OVH,72.22,52,highly_concentrated
+SSHMax,18,1,1,GRANSY Gransy s.r.o. gransy.com,100.0,26,highly_concentrated
+Perimeter81,16,1,1,AMAZON-02,100.0,26,highly_concentrated
+KeyDrop,14,8,8,TIMEWEB-AS,21.43,92,moderate
+SmartVPN,12,8,8,DIGITALOCEAN-ASN,25.0,89,moderate
+SlickVPN,11,10,10,UK2NET-AS,18.18,96,distributed
+BTGuard,10,4,4,NFORCE,70.0,51,highly_concentrated
+VPNObratno,10,5,5,ROSTELECOM-AS PJSC Rostelecom. Technical Team,60.0,60,concentrated
+CCrypto VPN,8,4,4,OVH,50.0,66,concentrated
+SotaVPN,8,3,3,H2NEXUS-AS,50.0,65,concentrated
+Anonvpn,7,3,4,Unknown,57.14,61,concentrated
+MoriVPN,7,3,3,ORACLE-BMC-31898,57.14,60,concentrated
+Vpnfacile,7,3,3,OVH,71.43,49,highly_concentrated
+Freedomip,5,1,1,SAS-SHPV-FRANCE,100.0,26,highly_concentrated
+LimeVPN,4,4,4,NUCLEARFALLOUT-LAX,25.0,85,moderate
+VPNSTunnel,4,1,1,DIGITALOCEAN-ASN,100.0,26,highly_concentrated
+Freevpn,3,3,3,WORLDSTREAM,33.33,78,moderate
+Hide.me,3,3,3,NOCIX,33.33,78,moderate
+WorkingVPN,3,1,1,OVH,100.0,26,highly_concentrated
+Octanevpn,2,1,1,AMAZON-AES,100.0,26,highly_concentrated
+Vpnbook,2,1,1,OVH,100.0,26,highly_concentrated
+Integrityvpn,1,1,1,BAHNHOF,100.0,26,highly_concentrated

@@ -1,0 +1,16 @@
+provider_a,provider_b,relationship_score,confidence,shared_exact_ips,shared_prefixes_24,shared_asns,top_asn_org
+Anonine,BoxPN,100,high,290,56,31,M247
+Anonine,EasyHideIP,100,high,285,55,30,M247
+Anonine,FrootVPN,100,high,285,55,30,M247
+BoxPN,EasyHideIP,100,high,285,55,30,M247
+BoxPN,FrootVPN,100,high,285,55,30,M247
+EasyHideIP,FrootVPN,100,high,285,55,30,M247
+Ivacy,PureVPN,79,high,27,20,9,CDNEXT
+Getflix,Smartdnsproxy,65,medium,18,18,15,AS-VULTR
+Froot,FrootVPN,56,medium,21,11,10,GLESYS glesys.com
+GhostPath,SlickVPN,56,medium,11,11,10,UK2NET-AS
+Sentinel dVPN,TorGuard,55,medium,17,17,5,M247
+Anonine,Froot,52,medium,10,9,8,FSNET-1
+BoxPN,Froot,52,medium,10,9,8,FSNET-1
+EasyHideIP,Froot,52,medium,10,9,8,FSNET-1
+IPVanish,StrongVPN,12,low,2,1,1,AS-INCX

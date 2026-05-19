@@ -1,0 +1,6 @@
+cluster_id,providers,relationship_score,confidence,pair_shared_exact_ip_sum,shared_prefixes_24,shared_asns,evidence
+cluster_001,Anonine;BoxPN;EasyHideIP;Froot;FrootVPN,100,high,1766,57,32,exact_ip_overlap;shared_prefix_24;shared_asn
+cluster_002,Getflix;Smartdnsproxy,65,medium,18,18,15,exact_ip_overlap;shared_prefix_24;shared_asn
+cluster_003,GhostPath;SlickVPN,65,medium,11,11,10,exact_ip_overlap;shared_prefix_24;shared_asn
+cluster_004,Ivacy;PureVPN,64,medium,27,20,9,exact_ip_overlap;shared_prefix_24;shared_asn
+cluster_005,Sentinel dVPN;TorGuard,60,medium,17,17,5,exact_ip_overlap;shared_prefix_24;shared_asn

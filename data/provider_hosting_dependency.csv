@@ -1,0 +1,1977 @@
+provider,asn_org,ip_count,provider_share_percent,asn_count
+Windscribe,CDNEXT,284,27.84,1
+Windscribe,M247,195,19.12,1
+Windscribe,TZULO,84,8.24,1
+Windscribe,CDN77 _,31,3.04,1
+Windscribe,ESTNOC-GLOBAL,30,2.94,1
+Windscribe,GSLNETWORKS-AS-AP GSL Networks Pty LTD,27,2.65,1
+Windscribe,SONDATECH S.A.S.,21,2.06,1
+Windscribe,AS-INCX,18,1.76,1
+Windscribe,INT-5GN-AS-AP 5G NETWORK OPERATIONS PTY LTD,18,1.76,1
+Windscribe,FREE RANGE CLOUD,16,1.57,1
+Windscribe,IDNIC-ATHARVA-AS-ID PT Atharva Telematika Persada,15,1.47,1
+Windscribe,AS41564,13,1.27,1
+Windscribe,AS-COLOCROSSING,12,1.18,1
+Windscribe,H4Y-TECHNOLOGIES,12,1.18,1
+Windscribe,AFRIHOST-SP,9,0.88,1
+Windscribe,AXCELX-NET,9,0.88,1
+Windscribe,CLOUVIDER Clouvider - Global ASN,9,0.88,1
+Windscribe,PLI-AS,9,0.88,1
+Windscribe,VDI-NETWORK,9,0.88,1
+Windscribe,WINDSCRIBE,9,0.88,1
+Windscribe,ZEN-ECN,9,0.88,1
+Windscribe,LATITUDE-SH,7,0.69,1
+Windscribe,Latitude.sh LTDA,7,0.69,1
+Windscribe,UK2NET-AS,7,0.69,1
+Windscribe,ACEHOST,6,0.59,1
+Windscribe,ALTUS,6,0.59,1
+Windscribe,AS-GLOBALTELEHOST,6,0.59,1
+Windscribe,AS-NETWORKEDGE,6,0.59,1
+Windscribe,AS40676 - Psychz Networks,6,0.59,1
+Windscribe,CYTA-NETWORK Internet Services,6,0.59,1
+Windscribe,DATALOGISTICS,6,0.59,1
+Windscribe,HINET Data Communication Business Group,6,0.59,1
+Windscribe,HQSERV_NETWORKS,6,0.59,1
+Windscribe,LEAPSWITCH-IN-AS-AP LEAPSWITCH NETWORKS PRIVATE LIMITED,6,0.59,1
+Windscribe,MADCOM-ASN,6,0.59,1
+Windscribe,PACKETEXCHANGE,6,0.59,1
+Windscribe,PERFORMIVE,6,0.59,1
+Windscribe,RIXHOST,6,0.59,1
+Windscribe,"SIAMDATA-TH Siamdata Communication Co.,Ltd.",6,0.59,1
+Windscribe,SKYNET-CY-AS,6,0.59,1
+Windscribe,TRABIA,6,0.59,1
+Windscribe,UNMETERED,6,0.59,1
+Windscribe,VNPT-AS-VN VNPT Corp,6,0.59,1
+Windscribe,GLOBALHOST-BOSNIA-AS,4,0.39,1
+Windscribe,ARTNET,3,0.29,1
+Windscribe,DE-CORP DE-CORP,3,0.29,1
+Windscribe,FLOKINET,3,0.29,1
+Windscribe,"KEMINET A datacenter located in TiranaAlbania. Webhosting, Dedicated Servers, VPS, IPv4IPv6 leasing",3,0.29,1
+Windscribe,LACHANSO-VN Digital Shield Technology Company Limited,3,0.29,1
+Windscribe,LGDACOM LG DACOM Corporation,3,0.29,1
+Windscribe,"NNECL-AS-AP NZ Network Enterprise Co., Ltd.",3,0.29,1
+Windscribe,PROSERVICE,3,0.29,1
+Windscribe,QNAX LTDA,3,0.29,1
+Windscribe,RYAMER,3,0.29,1
+Windscribe,SKB-AS SK Broadband Co Ltd,3,0.29,1
+Windscribe,SOVAM-AS,3,0.29,1
+Windscribe,TELEKS-,3,0.29,1
+Windscribe,VPLSNET,3,0.29,1
+FlowVPN,"ONEPROVIDER-AS BrainStorm Network, Inc",29,11.6,1
+FlowVPN,SCLOUDPTELTD-AS Scloud Pte Ltd,9,3.6,1
+FlowVPN,THE,9,3.6,1
+FlowVPN,VNPT-AS-VN VNPT Corp,8,3.2,1
+FlowVPN,AS-VULTR,7,2.8,1
+FlowVPN,NEWPUSH,7,2.8,1
+FlowVPN,Unknown,7,2.8,0
+FlowVPN,OVH,6,2.4,1
+FlowVPN,IFOG-GMBH,5,2.0,1
+FlowVPN,IOMART-AS,5,2.0,1
+FlowVPN,M247,5,2.0,1
+FlowVPN,AMAZON-02,4,1.6,1
+FlowVPN,BAGE,4,1.6,1
+FlowVPN,BYTEVIRTLLC,4,1.6,1
+FlowVPN,CIVO-UK,4,1.6,1
+FlowVPN,EDGECENTERLLC,4,1.6,1
+FlowVPN,HOSTHATCH,4,1.6,1
+FlowVPN,SECURITYNET-AS,4,1.6,1
+FlowVPN,ASNET,3,1.2,1
+FlowVPN,COMFACCORPORATION-AS-AP COMFAC CORPORATION,3,1.2,1
+FlowVPN,Dattatec.com,3,1.2,1
+FlowVPN,KAOPU-HK Kaopu Cloud HK Limited,3,1.2,1
+FlowVPN,SKB-AS SK Broadband Co Ltd,3,1.2,1
+FlowVPN,THE-HOSTING,3,1.2,1
+FlowVPN,WORLDBUS,3,1.2,2
+FlowVPN,"ALWYZON Alwyzon, a trading name of Hohl IT e.U.",2,0.8,1
+FlowVPN,CLOUDWEBMANAGE-UK-1,2,0.8,1
+FlowVPN,EDIS-AS-EU,2,0.8,1
+FlowVPN,EHOSTIDC-AS-KR Hostcenter,2,0.8,1
+FlowVPN,FREE RANGE CLOUD,2,0.8,1
+FlowVPN,GCORE,2,0.8,1
+FlowVPN,GCS-AS,2,0.8,1
+FlowVPN,GLBBULUTTEKNOLOJISI-AS,2,0.8,1
+FlowVPN,HINET Data Communication Business Group,2,0.8,1
+FlowVPN,KARABRO Karabro AB,2,0.8,1
+FlowVPN,KIXS-AS-KR Korea Telecom,2,0.8,1
+FlowVPN,MELBICOM-EU-AS Melbikomas UAB,2,0.8,2
+FlowVPN,PONYNET,2,0.8,1
+FlowVPN,SINAVPS SinaVPS,2,0.8,1
+FlowVPN,SSASN2,2,0.8,1
+FlowVPN,VECTANT ARTERIA Networks Corporation,2,0.8,1
+FlowVPN,WISDOM-CLOUD,2,0.8,1
+FlowVPN,XANDMAIL-ASN,2,0.8,1
+FlowVPN,xneelo,2,0.8,1
+FlowVPN,ACTIVENETWORK-AS Active Network S.p.A.,1,0.4,1
+FlowVPN,AHCLOUD,1,0.4,1
+FlowVPN,ALMOUROLTEC,1,0.4,1
+FlowVPN,ARUBA-ASN,1,0.4,1
+FlowVPN,ARUBAFR-AS,1,0.4,1
+FlowVPN,ASDETUK www.heficed.com,1,0.4,1
+FlowVPN,AVAHOHST,1,0.4,1
+FlowVPN,BALTNETA Customers AS,1,0.4,1
+FlowVPN,BANDWIDTH-AS,1,0.4,1
+FlowVPN,BINARYRACKS-AS,1,0.4,1
+FlowVPN,CHOCIZ-AS,1,0.4,1
+FlowVPN,CL8ASN1,1,0.4,1
+FlowVPN,CLOUDSIGMA-AS,1,0.4,1
+FlowVPN,CLOUDWEBMANAGE-,1,0.4,1
+FlowVPN,CORE-BACKBONE CORE-BACKBONE GMBH GLOBAL NETWORK,1,0.4,1
+FlowVPN,CREANOVA-AS Oy Creanova Hosting Solutions Ltd.,1,0.4,1
+FlowVPN,DELTA-TELECOM-AS International Communication Operator,1,0.4,1
+FlowVPN,DELTAHOST-KYIV,1,0.4,1
+FlowVPN,DINSERVGRO-NET,1,0.4,1
+FlowVPN,Data Miners S.A.  Racknation.cr,1,0.4,1
+FlowVPN,ESSENSYSINC,1,0.4,1
+FlowVPN,EVOXTENTERPRISE-AS-AP Evoxt Enterprise,1,0.4,1
+FlowVPN,FAIRYHOSTING,1,0.4,1
+FlowVPN,FEELB,1,0.4,1
+FlowVPN,GLESYS glesys.com,1,0.4,1
+FlowVPN,GOCODEIT-EDGE,1,0.4,1
+FlowVPN,GORILLASERVERS,1,0.4,1
+FlowVPN,H2NEXUS-AS,1,0.4,1
+FlowVPN,HOST-AS-AP Host Universal Pty Ltd,1,0.4,1
+FlowVPN,IDIGITAL,1,0.4,1
+FlowVPN,IDNIC-IDCLOUDHOST-AS-ID PT Cloud Hosting Indonesia,1,0.4,1
+FlowVPN,INFOLINK-MIA-,1,0.4,1
+FlowVPN,ITL-LV,1,0.4,1
+FlowVPN,InterBS S.R.L. BAEHOST,1,0.4,1
+FlowVPN,KAMATERA,1,0.4,1
+FlowVPN,LDEX,1,0.4,1
+FlowVPN,LGHL-AS-AP Liasail Global Hongkong Limited,1,0.4,1
+FlowVPN,MYTHIC Mythic Beasts Ltd,1,0.4,1
+FlowVPN,NEWMEDIAEXPRESS-AS-AP NewMedia Express Pte Ltd,1,0.4,1
+FlowVPN,NOCIX,1,0.4,1
+FlowVPN,ONE-NETWORK,1,0.4,1
+FlowVPN,Offshore Racks S.A,1,0.4,1
+FlowVPN,Online SAS,1,0.4,1
+FlowVPN,PERFECT-INTERNATIONAL,1,0.4,1
+FlowVPN,PIPE-NET pipehost.net,1,0.4,1
+FlowVPN,PIPEHOST-AS PIPEHOST,1,0.4,1
+FlowVPN,POWERLINE-AS-AP POWER LINE DATACENTER,1,0.4,1
+FlowVPN,RELAYIFY-LLC,1,0.4,1
+FlowVPN,SERVERCENTRAL,1,0.4,1
+FlowVPN,SETCOR,1,0.4,1
+FlowVPN,SOFTLAYER,1,0.4,1
+FlowVPN,SS7-AS,1,0.4,1
+FlowVPN,SSERV-AS,1,0.4,1
+FlowVPN,SYN-UK SYN,1,0.4,1
+FlowVPN,SYPTEC-NOC,1,0.4,1
+FlowVPN,SZYBKINET,1,0.4,1
+FlowVPN,TTC-AS JSC Transtelecom,1,0.4,1
+FlowVPN,TURNKEY-INTERNET,1,0.4,1
+FlowVPN,Truxgo S. de R.L de C.V,1,0.4,1
+FlowVPN,"UKSERVERS-AS UK Dedicated Servers, Hosting and Co-Location",1,0.4,1
+FlowVPN,VHOST-HOLDINGS-SG vHost Holdings Pte Ltd,1,0.4,1
+FlowVPN,VIRTUALSYSTEMS,1,0.4,1
+FlowVPN,VIRTUASYS-EU Lift weight. Push bytes. Never drop. Repeat.,1,0.4,1
+FlowVPN,WAP-AC,1,0.4,1
+FlowVPN,ZAM LTDA.,1,0.4,1
+FlowVPN,ZAPPIE-HOST-AS Zappie Host,1,0.4,1
+IVPN,CDN77 _,40,28.99,1
+IVPN,M247,34,24.64,1
+IVPN,TZULO,11,7.97,1
+IVPN,LEASEWEB-NL-AMS-01 Netherlands,7,5.07,1
+IVPN,AMANAHA-NEW,3,2.17,1
+IVPN,ESTNOC-GLOBAL,3,2.17,1
+IVPN,GIGABIT-MY Gigabit Hosting Sdn Bhd,3,2.17,1
+IVPN,PLI-AS,3,2.17,1
+IVPN,ALMOUROLTEC,2,1.45,1
+IVPN,AS-COLOCROSSING,2,1.45,1
+IVPN,AS-VULTR,2,1.45,1
+IVPN,CLOUDSINGULARITY,2,1.45,1
+IVPN,CREANOVA-AS Oy Creanova Hosting Solutions Ltd.,2,1.45,1
+IVPN,GLESYS glesys.com,2,1.45,1
+IVPN,HQSERV_NETWORKS,2,1.45,1
+IVPN,LEASEWEB-APAC-HKG-10 LEASEWEB HONG KONG LIMITED,2,1.45,1
+IVPN,LEASEWEB-DE-FRA-10,2,1.45,1
+IVPN,MYTEK-AS-AP MYTEK TRADING PTY LTD,2,1.45,1
+IVPN,SERVETHEWORLD-AS,2,1.45,1
+IVPN,Unknown,2,1.45,0
+IVPN,CDNEXT,1,0.72,1
+IVPN,FLOKINET,1,0.72,1
+IVPN,GCORE,1,0.72,1
+IVPN,HOSTROYALE,1,0.72,1
+IVPN,"M247-UK M247 UK Ltd, trading as M247",1,0.72,1
+IVPN,QNAX LTDA,1,0.72,1
+IVPN,SERVER server.ua,1,0.72,1
+IVPN,THORDC-AS,1,0.72,1
+IVPN,UK2NET-AS,1,0.72,1
+IVPN,XSERVERCLOUD,1,0.72,1
+Sentinel dVPN,AS-COLOCROSSING,242,20.05,1
+Sentinel dVPN,"IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE.",84,6.96,1
+Sentinel dVPN,AkileCloud Network,50,4.14,1
+Sentinel dVPN,MASSIVEGRID,34,2.82,1
+Sentinel dVPN,M247,23,1.91,1
+Sentinel dVPN,DELUXHOST,21,1.74,1
+Sentinel dVPN,"ONEPROVIDER-AS BrainStorm Network, Inc",21,1.74,1
+Sentinel dVPN,AS56971 AS56971 Cloud,19,1.57,1
+Sentinel dVPN,"ALIBABA-CN-NET Alibaba US Technology Co., Ltd.",17,1.41,1
+Sentinel dVPN,HETZNER-AS,16,1.33,1
+Sentinel dVPN,HOSTHATCH,16,1.33,1
+Sentinel dVPN,ANL-36,15,1.24,1
+Sentinel dVPN,DARTNODE,15,1.24,1
+Sentinel dVPN,DEHOST-INTERNET-VE-BILISIM-TEKNOLOJILERI-SAN-TIC-LTD-STI DEHOST INTERNET VE BILISIM TEKNOLOJILERI SANAYI TICARET LIMITED SIRKETI,15,1.24,1
+Sentinel dVPN,KEYUBU,15,1.24,1
+Sentinel dVPN,NETVAY,15,1.24,1
+Sentinel dVPN,OVH,15,1.24,1
+Sentinel dVPN,NEXEON,14,1.16,1
+Sentinel dVPN,UNMANAGED-DEDICATED-SERVERS,13,1.08,1
+Sentinel dVPN,HOSTODO,11,0.91,1
+Sentinel dVPN,LINVEO-LLC,11,0.91,1
+Sentinel dVPN,SOLID,11,0.91,1
+Sentinel dVPN,VNPT-AS-VN VNPT Corp,10,0.83,1
+Sentinel dVPN,WERIDATA-LLC,10,0.83,1
+Sentinel dVPN,DEXDC,9,0.75,1
+Sentinel dVPN,I-SERVERS-EAST,9,0.75,1
+Sentinel dVPN,WEBHORIZON-AS-AP WebHorizon Internet Services,9,0.75,1
+Sentinel dVPN,1GSERVERS,8,0.66,1
+Sentinel dVPN,CONTABO,8,0.66,1
+Sentinel dVPN,HOSTEROID,8,0.66,1
+Sentinel dVPN,RAVNIX,8,0.66,1
+Sentinel dVPN,ASNET,7,0.58,1
+Sentinel dVPN,DASABO,7,0.58,1
+Sentinel dVPN,IDC-AS-AP Dromatics Systems Pte Ltd,7,0.58,1
+Sentinel dVPN,"LAIN we love lain, cats and the world wide web",7,0.58,1
+Sentinel dVPN,"UKSERVERS-AS UK Dedicated Servers, Hosting and Co-Location",7,0.58,1
+Sentinel dVPN,VELIANET-AS velia.net Internetdienste GmbH,7,0.58,1
+Sentinel dVPN,ELD-AS-AP Edgenext Legend Dynasty Pte. Ltd.,6,0.5,1
+Sentinel dVPN,LINKdotNET-AS,6,0.5,1
+Sentinel dVPN,MAJESTIC-HOSTING-01,6,0.5,1
+Sentinel dVPN,MYSTICDEVIO,6,0.5,1
+Sentinel dVPN,TZULO,6,0.5,1
+Sentinel dVPN,XTOM xTom GmbH,6,0.5,1
+Sentinel dVPN,AMANAHA-NEW,5,0.41,1
+Sentinel dVPN,AS-CATIXS-AKA,5,0.41,1
+Sentinel dVPN,ASN-GIGENET,5,0.41,1
+Sentinel dVPN,HALIL-OMER-TEKIN,5,0.41,1
+Sentinel dVPN,HOSTEONS-AS-AP Hosteons Pte. Ltd.,5,0.41,1
+Sentinel dVPN,NETWIRE-INC,5,0.41,1
+Sentinel dVPN,PROMO-PLUS,5,0.41,1
+Sentinel dVPN,RADORE,5,0.41,1
+Sentinel dVPN,Red Cientifica Peruana,5,0.41,1
+Sentinel dVPN,SKHRON Skhron OU: skhron.eu,5,0.41,1
+Sentinel dVPN,SPARKED,5,0.41,1
+Sentinel dVPN,WCZAPKOWICZ-AS as214481as-wczapkowicz Chunkserve Backbone Transit,5,0.41,1
+Sentinel dVPN,ABKHAZMEDIA-AS,4,0.33,1
+Sentinel dVPN,ASBAXETN,4,0.33,1
+Sentinel dVPN,AVAHOHST,4,0.33,1
+Sentinel dVPN,Administracion Nacional de Telecomunicaciones,4,0.33,1
+Sentinel dVPN,COOPNORGE,4,0.33,1
+Sentinel dVPN,H2NEXUS-AS,4,0.33,1
+Sentinel dVPN,HEARTBEAT-IT,4,0.33,1
+Sentinel dVPN,HINET Data Communication Business Group,4,0.33,1
+Sentinel dVPN,HOST-AS-AP Host Universal Pty Ltd,4,0.33,1
+Sentinel dVPN,LIMESTONENETWORKS,4,0.33,1
+Sentinel dVPN,ORACLE-BMC-31898,4,0.33,1
+Sentinel dVPN,OUIHEBERG,4,0.33,1
+Sentinel dVPN,RACKVOLT-AS-AP RACKVOLT CLOUD SOLUTIONS PRIVATE LIMITED,4,0.33,1
+Sentinel dVPN,SENKO-AS Senko Digital Ltd,4,0.33,1
+Sentinel dVPN,SERVER-AS-AP Server Galactic Private Limited,4,0.33,1
+Sentinel dVPN,VELOXSERV,4,0.33,1
+Sentinel dVPN,-Reserved AS-,3,0.25,2
+Sentinel dVPN,AS40676 - Psychz Networks,3,0.25,1
+Sentinel dVPN,CAPL-AS-AP Contabo Asia Private Limited,3,0.25,1
+Sentinel dVPN,DATAFOREST,3,0.25,1
+Sentinel dVPN,DF-TRANSIT,3,0.25,1
+Sentinel dVPN,Dattatec.com,3,0.25,1
+Sentinel dVPN,FIBERSTATE,3,0.25,1
+Sentinel dVPN,GHT-NET,3,0.25,1
+Sentinel dVPN,HOLLANDER-JACOBSEN,3,0.25,1
+Sentinel dVPN,HOSTPAT-AS-IN HOSTDZIRE WEB SERVICES PRIVATE LIMITED,3,0.25,1
+Sentinel dVPN,HS,3,0.25,1
+Sentinel dVPN,ITM NORD AS,3,0.25,1
+Sentinel dVPN,KAOPU-HK Kaopu Cloud HK Limited,3,0.25,1
+Sentinel dVPN,KAZTELECOM-AS,3,0.25,1
+Sentinel dVPN,MVPS www.mvps.net,3,0.25,1
+Sentinel dVPN,NUYEK,3,0.25,1
+Sentinel dVPN,PROXAD,3,0.25,1
+Sentinel dVPN,ROYALE-AS,3,0.25,1
+Sentinel dVPN,SERVITRO-LTD,3,0.25,1
+Sentinel dVPN,TWO-E-TELEKOM,3,0.25,1
+Sentinel dVPN,VIRMACH,3,0.25,1
+Sentinel dVPN,YOTTASRC,3,0.25,1
+Sentinel dVPN,ACTIVENETWORK-AS Active Network S.p.A.,2,0.17,1
+Sentinel dVPN,ALEXHOST,2,0.17,1
+Sentinel dVPN,ALJASKA-AS,2,0.17,1
+Sentinel dVPN,ANTON-LEVIN-AS,2,0.17,1
+Sentinel dVPN,AS-GLOBALTELEHOST,2,0.17,2
+Sentinel dVPN,AS-INCX,2,0.17,1
+Sentinel dVPN,AS213929CH AS213929.ch,2,0.17,1
+Sentinel dVPN,ASN-FLEXENTIAL,2,0.17,1
+Sentinel dVPN,C1V Internet Service Provider in Italy,2,0.17,1
+Sentinel dVPN,CARRIERDOMAIN-NYC,2,0.17,1
+Sentinel dVPN,COLOCATEL-INC Colocatel Network - High Bandwidth Dedicated Servers,2,0.17,1
+Sentinel dVPN,COMCAST-7922,2,0.17,1
+Sentinel dVPN,CROWNCLOUD,2,0.17,1
+Sentinel dVPN,DAINTERNATIONALGROUP,2,0.17,1
+Sentinel dVPN,ELCRO-DIGITAL-SERVICES-LLC,2,0.17,1
+Sentinel dVPN,ENDOFFICE,2,0.17,1
+Sentinel dVPN,HIVE-DATA-CENTER,2,0.17,1
+Sentinel dVPN,HOST-MEDIA-LTD,2,0.17,1
+Sentinel dVPN,HOSTBILBY,2,0.17,1
+Sentinel dVPN,HOSTUP HOSTUP,2,0.17,1
+Sentinel dVPN,Host-Africa-AS,2,0.17,1
+Sentinel dVPN,INTERDIGI-VN INTERDIGI JOINT STOCK COMPANY,2,0.17,1
+Sentinel dVPN,IS-AS-1,2,0.17,1
+Sentinel dVPN,J AND J SPA INFOFRACTAL,2,0.17,1
+Sentinel dVPN,KIXS-AS-KR Korea Telecom,2,0.17,1
+Sentinel dVPN,KREDIT-AS,2,0.17,1
+Sentinel dVPN,LATITUDE-SH,2,0.17,1
+Sentinel dVPN,LEASEWEB-APAC-SIN-11 LEASEWEB SINGAPORE PTE. LTD.,2,0.17,1
+Sentinel dVPN,MASTER-AS Czech Republic  www.master.cz,2,0.17,1
+Sentinel dVPN,MELBICOM-EU-AS Melbikomas UAB,2,0.17,1
+Sentinel dVPN,MYLOC-AS IP Backbone of WIIT AG formerly myLoc managed IT AG,2,0.17,1
+Sentinel dVPN,NETCUP-AS netcup GmbH,2,0.17,1
+Sentinel dVPN,NEXT-ALAN-AS,2,0.17,1
+Sentinel dVPN,NOCIX,2,0.17,1
+Sentinel dVPN,PEBBLEHOST,2,0.17,1
+Sentinel dVPN,PEG-SV,2,0.17,1
+Sentinel dVPN,SITCL-AS-AP Silicon Cloud Global US,2,0.17,1
+Sentinel dVPN,SYSTEMINPLACE,2,0.17,1
+Sentinel dVPN,WEBDOCK-AS,2,0.17,1
+Sentinel dVPN,WII,2,0.17,1
+Sentinel dVPN,XTOM xTom Pty Ltd,2,0.17,1
+Sentinel dVPN,XTOM-JAPAN xTom Japan Corporation,2,0.17,1
+Sentinel dVPN,AARONSMITH-AS,1,0.08,1
+Sentinel dVPN,ADVIN-AS,1,0.08,1
+Sentinel dVPN,ALMOUROLTEC,1,0.08,1
+Sentinel dVPN,"ALWYZON Alwyzon, a trading name of Hohl IT e.U.",1,0.08,1
+Sentinel dVPN,ASTURKNET,1,0.08,1
+Sentinel dVPN,ATT-INTERNET4,1,0.08,1
+Sentinel dVPN,AXUSHOST,1,0.08,1
+Sentinel dVPN,BAT-AS9038,1,0.08,1
+Sentinel dVPN,BESTHOSTING-AS,1,0.08,1
+Sentinel dVPN,BOUYGTEL-ISP,1,0.08,1
+Sentinel dVPN,BSKYB-BROADBAND-AS,1,0.08,1
+Sentinel dVPN,"CAT-AP The Communication Authoity of Thailand, CAT",1,0.08,1
+Sentinel dVPN,CLOUDVALLEY-AS-AP Cloudvalley Sdn. Bhd.,1,0.08,1
+Sentinel dVPN,CLOUDWEBMANAGE-,1,0.08,1
+Sentinel dVPN,COGENT-174,1,0.08,1
+Sentinel dVPN,DIG001,1,0.08,1
+Sentinel dVPN,DIGITALOCEAN-ASN,1,0.08,1
+Sentinel dVPN,Data Miners S.A.  Racknation.cr,1,0.08,1
+Sentinel dVPN,ESTOXY-OU,1,0.08,1
+Sentinel dVPN,EVOXTENTERPRISE-AS-AP Evoxt Enterprise,1,0.08,1
+Sentinel dVPN,FASTPANDA,1,0.08,1
+Sentinel dVPN,FBX-AS,1,0.08,1
+Sentinel dVPN,FIBERPOWER-AS,1,0.08,1
+Sentinel dVPN,FIRST-SERVER-EUROPE,1,0.08,1
+Sentinel dVPN,FPT-AS-AP FPT Telecom Company,1,0.08,1
+Sentinel dVPN,FUTURE-LAIN,1,0.08,1
+Sentinel dVPN,France Telecom - Orange,1,0.08,1
+Sentinel dVPN,HETZNER-CLOUD4-AS,1,0.08,1
+Sentinel dVPN,HIZAKURA-,1,0.08,1
+Sentinel dVPN,HKBN-AS-AP Hong Kong Broadband Network Ltd.,1,0.08,1
+Sentinel dVPN,HKTIMS-AP HKT Limited,1,0.08,1
+Sentinel dVPN,HNSL-AS-AP Hytron Network Services Limited,1,0.08,1
+Sentinel dVPN,HOSTKEY-AS,1,0.08,1
+Sentinel dVPN,HOSTSLIM-GLOBAL-NETWORK,1,0.08,1
+Sentinel dVPN,HOSTUS-GLOBAL-AS HostUS,1,0.08,1
+Sentinel dVPN,HURRICANE,1,0.08,1
+Sentinel dVPN,IDNIC-BIZNETGIO-AS-ID PT Biznet Gio Nusantara,1,0.08,1
+Sentinel dVPN,IDNIC-HERZA-AS-ID PT Herza Digital Indonesia,1,0.08,1
+Sentinel dVPN,INT-5GN-AS-AP 5G NETWORK OPERATIONS PTY LTD,1,0.08,1
+Sentinel dVPN,INTERNETPORT-AS,1,0.08,1
+Sentinel dVPN,IP-PROJECTS,1,0.08,1
+Sentinel dVPN,IWEB-AS,1,0.08,1
+Sentinel dVPN,Informatica y Telecomunicaciones S.A.,1,0.08,1
+Sentinel dVPN,JOYSVC-AS-IN JOY SERVICES,1,0.08,1
+Sentinel dVPN,KUROIT Kuroit Limited,1,0.08,1
+Sentinel dVPN,KUZEYDC,1,0.08,1
+Sentinel dVPN,LAYER,1,0.08,1
+Sentinel dVPN,LEASEWEB-APAC-HKG-10 LEASEWEB HONG KONG LIMITED,1,0.08,1
+Sentinel dVPN,LIGHT4-AS-AP LIGHT NODE LIMITED,1,0.08,1
+Sentinel dVPN,MAGTICOMAS Magticom,1,0.08,1
+Sentinel dVPN,MAMMOTHMEDIA-AS-AP Mammoth Media Pty Ltd,1,0.08,1
+Sentinel dVPN,NEXTGENWEBS-NL,1,0.08,1
+Sentinel dVPN,NFX_ZSPO,1,0.08,1
+Sentinel dVPN,NUXOA,1,0.08,1
+Sentinel dVPN,ONLYSERVERS Dedicated Server Hosting Provider,1,0.08,1
+Sentinel dVPN,QUICKHOSTUK,1,0.08,1
+Sentinel dVPN,RCS-RDS 73-75 Dr. Staicovici,1,0.08,1
+Sentinel dVPN,RICAWEBSERVICES,1,0.08,1
+Sentinel dVPN,ROUTERHOSTING,1,0.08,1
+Sentinel dVPN,RS,1,0.08,1
+Sentinel dVPN,SELL-AS Orasul Navodari - Primaria Navodari,1,0.08,1
+Sentinel dVPN,SHARKTECH,1,0.08,1
+Sentinel dVPN,STREADER,1,0.08,1
+Sentinel dVPN,TECHTIDE,1,0.08,1
+Sentinel dVPN,TELENOR-SE Telenor Sverige AB,1,0.08,1
+Sentinel dVPN,THE-1984-AS,1,0.08,1
+Sentinel dVPN,THORDC-AS,1,0.08,1
+Sentinel dVPN,TIF-AS Iliad Italia S.p.A,1,0.08,1
+Sentinel dVPN,TNF-AS,1,0.08,1
+Sentinel dVPN,TPNET,1,0.08,1
+Sentinel dVPN,TTM,1,0.08,1
+Sentinel dVPN,TTSB-AS-AP Terabix,1,0.08,1
+Sentinel dVPN,TUNGSTEN,1,0.08,1
+Sentinel dVPN,TWO-DEGREES-AS-AP Two Degrees Networks Limited,1,0.08,1
+Sentinel dVPN,UUNET,1,0.08,1
+Sentinel dVPN,VERGETEL1-AS-AP VERGETEL,1,0.08,1
+Sentinel dVPN,VH-GLOBAL VH Global Limited,1,0.08,1
+Sentinel dVPN,VODAFONE-IT-ASN,1,0.08,1
+Sentinel dVPN,WHITELABEL,1,0.08,1
+Sentinel dVPN,XENIAHOSTING,1,0.08,1
+Sentinel dVPN,XSERVERCLOUD,1,0.08,1
+Sentinel dVPN,YESONGIT,1,0.08,1
+Sentinel dVPN,xneelo,1,0.08,1
+VPN Gate,KIXS-AS-KR Korea Telecom,18,18.75,1
+VPN Gate,SOFTETHER-AMERICA,16,16.67,1
+VPN Gate,KDDI KDDI CORPORATION,10,10.42,1
+VPN Gate,GIGAINFRA SoftBank Corp.,7,7.29,1
+VPN Gate,SO-NET Sony Network Communications Inc.,4,4.17,1
+VPN Gate,"CTCX Chubu Telecommunications Company, Inc.",3,3.13,1
+VPN Gate,"JTCL-JP-AS JCOM Co., Ltd.",3,3.13,1
+VPN Gate,OCN NTT Communications Corporation,3,3.13,1
+VPN Gate,SKB-AS SK Broadband Co Ltd,3,3.13,1
+VPN Gate,VECTANT ARTERIA Networks Corporation,3,3.13,1
+VPN Gate,AIS-FIBRE-AS-AP AIS Fibre,2,2.08,1
+VPN Gate,BIGLOBE BIGLOBE Inc.,2,2.08,1
+VPN Gate,"CANET IMIZU CABLE NETWORK CO.,LTD.",1,1.04,1
+VPN Gate,CMBHK-AS-KR CMB,1,1.04,1
+VPN Gate,"DOCOMO NTT DOCOMO, INC.",1,1.04,1
+VPN Gate,GAYANET-AS-KR LG HelloVision Corp.,1,1.04,1
+VPN Gate,IIJ Internet Initiative Japan Inc.,1,1.04,1
+VPN Gate,IPSERVICE-AS,1,1.04,1
+VPN Gate,KCNNET-AS-KR Keumgang Cable Network,1,1.04,1
+VPN Gate,KCTVNET-AS-KR Korea Cable TV Kwangju Broadcasting,1,1.04,1
+VPN Gate,M247,1,1.04,1
+VPN Gate,MIDCO-NET,1,1.04,1
+VPN Gate,MVMTECH-AS,1,1.04,1
+VPN Gate,OPTAGE OPTAGE Inc.,1,1.04,1
+VPN Gate,POWERVIS-AS-KR LG POWERCOMM,1,1.04,1
+VPN Gate,"REDCOM-AS Redcom, Khabarovsk, Russia",1,1.04,1
+VPN Gate,ROSTELECOM-AS PJSC Rostelecom. Technical Team,1,1.04,1
+VPN Gate,SKB-NAMDONGNET-AS-KR SK Broadband Co Ltd,1,1.04,1
+VPN Gate,SKB-TBROAD_HANVIT-AS-KR SK Broadband Co Ltd,1,1.04,1
+VPN Gate,TELE2,1,1.04,1
+VPN Gate,TOT-NET TOT Public Company Limited,1,1.04,1
+VPN Gate,UCOM ARTERIA Networks Corporation,1,1.04,1
+VPN Gate,UNITEL-LA Star Telecom,1,1.04,1
+VPN Gate,VIETEL-AS-AP Viettel Group,1,1.04,1
+Astrill,CLOUVIDER Clouvider - Global ASN,539,19.79,1
+Astrill,COGENT-174,289,10.61,1
+Astrill,AS62904 - Eonix Corporation,275,10.1,1
+Astrill,CDNEXT,256,9.4,1
+Astrill,AS-COLOCROSSING,96,3.53,1
+Astrill,OVH,95,3.49,1
+Astrill,AS-VULTR,84,3.08,1
+Astrill,SOFTLAYER,63,2.31,1
+Astrill,HURRICANE,54,1.98,1
+Astrill,SHARKTECH,37,1.36,1
+Astrill,AS40676 - Psychz Networks,36,1.32,1
+Astrill,FDCSERVERS,36,1.32,1
+Astrill,AS-GLOBALTELEHOST,35,1.29,2
+Astrill,SERVER-MANIA,33,1.21,1
+Astrill,NAMECHEAP-NET,31,1.14,1
+Astrill,WII,31,1.14,1
+Astrill,HINET Data Communication Business Group,28,1.03,1
+Astrill,M247,27,0.99,1
+Astrill,EGIHOSTING,19,0.7,1
+Astrill,MELBICOM-EU-AS Melbikomas UAB,19,0.7,2
+Astrill,LATITUDE-SH,16,0.59,1
+Astrill,PERFECT-INTERNATIONAL,16,0.59,1
+Astrill,VELIANET-AS velia.net Internetdienste GmbH,16,0.59,1
+Astrill,CDN77 _,15,0.55,1
+Astrill,HOSTROYALE,15,0.55,1
+Astrill,GORILLASERVERS,14,0.51,1
+Astrill,LEASEWEB-USA-LAX,14,0.51,1
+Astrill,24SHELLS,13,0.48,1
+Astrill,SUPERNET-UK,13,0.48,1
+Astrill,ASN-GIGENET,12,0.44,1
+Astrill,ORG-LVA15-AS,11,0.4,1
+Astrill,XTOM-JAPAN xTom Japan Corporation,11,0.4,1
+Astrill,LIMESTONENETWORKS,10,0.37,1
+Astrill,Unknown,10,0.37,0
+Astrill,CYBERCON,9,0.33,1
+Astrill,DEDICATED,9,0.33,1
+Astrill,UK2NET-AS,9,0.33,1
+Astrill,IST-AS,8,0.29,1
+Astrill,PEG-SV,8,0.29,1
+Astrill,PERFORMIVE,8,0.29,1
+Astrill,SERVERHUB-NL,8,0.29,1
+Astrill,BANDWIDTH-AS,7,0.26,1
+Astrill,KVCNET-2009,7,0.26,1
+Astrill,LEASEWEB-DE-FRA-10,7,0.26,1
+Astrill,LEASEWEB-USA-SFO,7,0.26,1
+Astrill,TIER4CLOU-AS Tier 4 Cloud Services,7,0.26,1
+Astrill,WORLDSTREAM,7,0.26,1
+Astrill,EHOSTIDC-AS-KR Hostcenter,6,0.22,1
+Astrill,FIBERFI,6,0.22,1
+Astrill,GIGABIT-MY Gigabit Hosting Sdn Bhd,6,0.22,1
+Astrill,HSI-EUROPE,6,0.22,1
+Astrill,HUGESERVER-NETWORKS,6,0.22,1
+Astrill,LEASEWEB-APAC-HKG-10 LEASEWEB HONG KONG LIMITED,6,0.22,1
+Astrill,LEASEWEB-USA-NYC,6,0.22,1
+Astrill,LEASEWEB-USA-SEA,6,0.22,1
+Astrill,TIER-NET,6,0.22,1
+Astrill,CREANOVA-AS Oy Creanova Hosting Solutions Ltd.,5,0.18,1
+Astrill,InterBS S.R.L. BAEHOST,5,0.18,1
+Astrill,LEASEWEB-USA-CHI,5,0.18,1
+Astrill,LEASEWEB-USA-DAL,5,0.18,1
+Astrill,LEASEWEB-USA-PHX,5,0.18,1
+Astrill,RELIABLESITE,5,0.18,1
+Astrill,SERVETHEWORLD-AS,5,0.18,1
+Astrill,SSASN2,5,0.18,1
+Astrill,WEBENLET-AS,5,0.18,1
+Astrill,ACTIVE-SERVERS active-servers.com,4,0.15,1
+Astrill,AS-30083-US-VELIA-NET,4,0.15,1
+Astrill,ASN-VO Visual Online S.A. Luxembourg,4,0.15,1
+Astrill,ASSEFLOW,4,0.15,1
+Astrill,CHERRYSERVERS1-AS,4,0.15,1
+Astrill,EDIS-AS-EU,4,0.15,1
+Astrill,GNETINC-AS-AP GNET INC.,4,0.15,1
+Astrill,GTT-BACKBONE GTT,4,0.15,1
+Astrill,HON-ASN,4,0.15,1
+Astrill,HOSTKEY-USA,4,0.15,1
+Astrill,HUTCHISON-AS-AP HGC Global Communications Limited,4,0.15,1
+Astrill,HVC-AS,4,0.15,1
+Astrill,"IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE.",4,0.15,1
+Astrill,KIXS-AS-KR Korea Telecom,4,0.15,1
+Astrill,LEASEWEB-APAC-SIN-11 LEASEWEB SINGAPORE PTE. LTD.,4,0.15,1
+Astrill,NETMINDERS,4,0.15,1
+Astrill,NEXEON,4,0.15,1
+Astrill,PHOENIXNAP-SRB,4,0.15,1
+Astrill,"SERVERFIELD-AS Serverfield Co., Ltd.",4,0.15,1
+Astrill,SOVAM-AS,4,0.15,1
+Astrill,TRABIA,4,0.15,1
+Astrill,TWO-DEGREES-AS-AP Two Degrees Networks Limited,4,0.15,1
+Astrill,"UKSERVERS-AS UK Dedicated Servers, Hosting and Co-Location",4,0.15,1
+Astrill,XTOM xTom GmbH,4,0.15,1
+Astrill,ALMOUROLTEC,3,0.11,1
+Astrill,ALTUS,3,0.11,1
+Astrill,AMANAHA-NEW,3,0.11,1
+Astrill,AS-INCX,3,0.11,1
+Astrill,ASERGO-AS,3,0.11,1
+Astrill,BELCLOUD Premium IP transit network,3,0.11,1
+Astrill,BINARYRACKS-AS,3,0.11,1
+Astrill,CLOUDLEASE,3,0.11,1
+Astrill,CLOUDWEBMANAGE-,3,0.11,1
+Astrill,ESTNOC-GLOBAL,3,0.11,1
+Astrill,FIBERSTATE,3,0.11,1
+Astrill,GLOBALHOST-BOSNIA-AS,3,0.11,1
+Astrill,HETZNER-AS,3,0.11,1
+Astrill,IGNERO,3,0.11,1
+Astrill,IKOULA,3,0.11,1
+Astrill,INTERNETPORT-AS,3,0.11,1
+Astrill,IOFLOOD,3,0.11,1
+Astrill,KIRINONET,3,0.11,1
+Astrill,LANCOM Athens - Greece,3,0.11,1
+Astrill,LEASEWEB-NL-AMS-01 Netherlands,3,0.11,1
+Astrill,LERTAS-AS,3,0.11,1
+Astrill,Latitude.sh LTDA,3,0.11,1
+Astrill,MADGEN-01,3,0.11,1
+Astrill,MAGNA-CAPAX,3,0.11,1
+Astrill,MAJESTIC-HOSTING-01,3,0.11,1
+Astrill,NETERRA-AS,3,0.11,1
+Astrill,NFORCE,3,0.11,1
+Astrill,NOCIX,3,0.11,1
+Astrill,Online SAS,3,0.11,1
+Astrill,PLI-AS,3,0.11,1
+Astrill,SERVERASTRA-AS,3,0.11,1
+Astrill,SERVERSTADIUM,3,0.11,1
+Astrill,SHINJIRU-MY-AS-AP Shinjiru Technology Sdn Bhd,3,0.11,1
+Astrill,THEOPT-HOU,3,0.11,1
+Astrill,VAULT-HOST,3,0.11,1
+Astrill,VCL-AS-AP Virtury Cloud Private Limited,3,0.11,1
+Astrill,VNPT-AS-VN VIETNAM POSTS AND TELECOMMUNICATIONS GROUP,3,0.11,1
+Astrill,WEBWORLD-AS ta Web World Ireland,3,0.11,1
+Astrill,YURTEH-AS,3,0.11,1
+Astrill,xneelo,3,0.11,1
+Astrill,AXARNET-AS,2,0.07,1
+Astrill,COOLHOUSING-AS Vinohradska 190,2,0.07,1
+Astrill,CSLOX-IDC-AS-AP CS LOXINFO Public Company Limited.,2,0.07,1
+Astrill,CTRLS-AS-IN CtrlS,2,0.07,1
+Astrill,DIGITALOCEAN-ASN,2,0.07,1
+Astrill,ENDOFFICE,2,0.07,1
+Astrill,ENZUINC-,2,0.07,1
+Astrill,GTCOMM,2,0.07,1
+Astrill,INALAN,2,0.07,1
+Astrill,LEAPSWITCH-IN-AS-AP LEAPSWITCH NETWORKS PRIVATE LIMITED,2,0.07,1
+Astrill,MADCOM-ASN,2,0.07,1
+Astrill,MICROTRONIX-ESOLUTIONS,2,0.07,1
+Astrill,WHITELABELIT,2,0.07,1
+Astrill,XTOM xTom,2,0.07,1
+Astrill,ZEN-ECN,2,0.07,1
+Astrill,AKTON-AS Akton Autonomous System,1,0.04,1
+Astrill,"ARDH-AS-ID ARDH GLOBAL INDONESIA, PT",1,0.04,1
+Astrill,DIGITURUNC,1,0.04,1
+Astrill,FRONTIER-FRTR,1,0.04,1
+Astrill,GLESYS glesys.com,1,0.04,1
+Astrill,HKTIMS-AP HKT Limited,1,0.04,1
+Astrill,NOVA-CLOUD-,1,0.04,1
+Astrill,VERMONT-TELE,1,0.04,1
+CyberGhost,CDNEXT,878,32.7,1
+CyberGhost,M247,782,29.12,1
+CyberGhost,GSLNETWORKS-AS-AP GSL Networks Pty LTD,268,9.98,1
+CyberGhost,COGENT-174,168,6.26,1
+CyberGhost,CDN77 _,153,5.7,1
+CyberGhost,GLESYS glesys.com,125,4.66,1
+CyberGhost,ALTUS,46,1.71,1
+CyberGhost,IST-AS,38,1.42,1
+CyberGhost,PACKETEXCHANGE,35,1.3,1
+CyberGhost,AS41564,34,1.27,1
+CyberGhost,ESTNOC-GLOBAL,26,0.97,1
+CyberGhost,BINBOX-GLOBAL-SERVICES,24,0.89,1
+CyberGhost,TRABIA,19,0.71,1
+CyberGhost,GTS-BACKBONE GTS Telecom,15,0.56,1
+CyberGhost,"KEMINET A datacenter located in TiranaAlbania. Webhosting, Dedicated Servers, VPS, IPv4IPv6 leasing",15,0.56,1
+CyberGhost,VELIANET-AS velia.net Internetdienste GmbH,13,0.48,1
+CyberGhost,GTT-BACKBONE GTT,12,0.45,1
+CyberGhost,ANGANI-AS,11,0.41,1
+CyberGhost,TELEKS-,10,0.37,1
+CyberGhost,Unknown,9,0.34,0
+CyberGhost,ZAYO-6461,2,0.07,1
+CyberGhost,AS45671-NET-AU Wholesale Services Provider,1,0.04,1
+CyberGhost,EVOCATIVE-GLOBAL,1,0.04,1
+Private Internet Access,GSLNETWORKS-AS-AP GSL Networks Pty LTD,132,27.85,1
+Private Internet Access,CDNEXT,126,26.58,1
+Private Internet Access,M247,84,17.72,1
+Private Internet Access,COGENT-174,37,7.81,1
+Private Internet Access,GLESYS glesys.com,21,4.43,1
+Private Internet Access,SECFIREWALLAS,14,2.95,1
+Private Internet Access,LATITUDE-SH,8,1.69,1
+Private Internet Access,ESTNOC-GLOBAL,6,1.27,1
+Private Internet Access,PACKETEXCHANGE,6,1.27,1
+Private Internet Access,AS41564,5,1.05,1
+Private Internet Access,CLOUVIDER Clouvider - Global ASN,5,1.05,1
+Private Internet Access,SERVERS-AUS-CUST Servers Australia Customers,4,0.84,1
+Private Internet Access,ALTUS,3,0.63,1
+Private Internet Access,IST-AS,3,0.63,1
+Private Internet Access,"KEMINET A datacenter located in TiranaAlbania. Webhosting, Dedicated Servers, VPS, IPv4IPv6 leasing",3,0.63,1
+Private Internet Access,ZAYO-6461,3,0.63,1
+Private Internet Access,AS45671-NET-AU Wholesale Services Provider,2,0.42,1
+Private Internet Access,GTT-BACKBONE GTT,2,0.42,1
+Private Internet Access,TELEKS-,2,0.42,1
+Private Internet Access,TRABIA,2,0.42,1
+Private Internet Access,ZEN-ECN,2,0.42,1
+Private Internet Access,CDN77 _,1,0.21,1
+Private Internet Access,EVOCATIVE-GLOBAL,1,0.21,1
+Private Internet Access,LIMESTONENETWORKS,1,0.21,1
+Private Internet Access,Unknown,1,0.21,0
+Smartdnsproxy,M247,16,31.37,1
+Smartdnsproxy,AS-SERVERION Serverion B.V.,3,5.88,1
+Smartdnsproxy,AS-VULTR,3,5.88,1
+Smartdnsproxy,AS-SERVERION,2,3.92,1
+Smartdnsproxy,AS45671-NET-AU Wholesale Services Provider,2,3.92,1
+Smartdnsproxy,ASDETUK www.heficed.com,2,3.92,1
+Smartdnsproxy,CDN77 _,2,3.92,1
+Smartdnsproxy,DIGITALOCEAN-ASN,2,3.92,1
+Smartdnsproxy,ENZUINC-,2,3.92,1
+Smartdnsproxy,GHOST,2,3.92,1
+Smartdnsproxy,NFORCE,2,3.92,1
+Smartdnsproxy,AMANAHA-NEW,1,1.96,1
+Smartdnsproxy,AS40676 - Psychz Networks,1,1.96,1
+Smartdnsproxy,ASERGO-AS,1,1.96,1
+Smartdnsproxy,ASSEFLOW,1,1.96,1
+Smartdnsproxy,ATLANTIC-NET-1,1,1.96,1
+Smartdnsproxy,CDNEXT,1,1.96,1
+Smartdnsproxy,EDIS-AS-EU,1,1.96,1
+Smartdnsproxy,GLESYS glesys.com,1,1.96,1
+Smartdnsproxy,IOMART-AS,1,1.96,1
+Smartdnsproxy,IPHOST .GR IpDomain,1,1.96,1
+Smartdnsproxy,PLI-AS,1,1.96,1
+Smartdnsproxy,SERVETHEWORLD-AS,1,1.96,1
+Smartdnsproxy,SH-COM-,1,1.96,1
+AnonymousVPN,THE,13,30.23,1
+AnonymousVPN,"ONEPROVIDER-AS BrainStorm Network, Inc",7,16.28,1
+AnonymousVPN,TANGRAM-CANADA-INC,3,6.98,1
+AnonymousVPN,GHOST,2,4.65,1
+AnonymousVPN,ITL-BG,2,4.65,1
+AnonymousVPN,YURTEH-AS,2,4.65,1
+AnonymousVPN,ASDETUK www.heficed.com,1,2.33,1
+AnonymousVPN,ASSEFLOW,1,2.33,1
+AnonymousVPN,BALTNETA Customers AS,1,2.33,1
+AnonymousVPN,GREENFLOID-AS,1,2.33,1
+AnonymousVPN,HOSTHATCH,1,2.33,1
+AnonymousVPN,Host-Africa-AS2,1,2.33,1
+AnonymousVPN,MAKONIX,1,2.33,1
+AnonymousVPN,MASTER-AS Czech Republic  www.master.cz,1,2.33,1
+AnonymousVPN,NAV NAV Communications,1,2.33,1
+AnonymousVPN,Online SAS,1,2.33,1
+AnonymousVPN,SIA_2CLOUD,1,2.33,1
+AnonymousVPN,"TWELVE99 Arelion, fka Telia Carrier",1,2.33,1
+AnonymousVPN,WEBHOSTING24-AS Webhosting24 GmbH,1,2.33,1
+AnonymousVPN,XSERVERCLOUD,1,2.33,1
+Trust.Zone,M247,40,44.44,1
+Trust.Zone,CDN77 _,12,13.33,1
+Trust.Zone,TTM,5,5.56,1
+Trust.Zone,GTCOMM,3,3.33,1
+Trust.Zone,Online SAS,3,3.33,1
+Trust.Zone,AMANAHA-NEW,2,2.22,1
+Trust.Zone,ESECUREDATA,2,2.22,1
+Trust.Zone,FIRST-SERVER-EU-AS FIRST-SERVER-US,2,2.22,1
+Trust.Zone,HZ-EU-AS,2,2.22,1
+Trust.Zone,HZ-UK-AS,2,2.22,1
+Trust.Zone,HZ-US-AS,2,2.22,1
+Trust.Zone,"M247-UK M247 UK Ltd, trading as M247",2,2.22,1
+Trust.Zone,WORLDSTREAM,2,2.22,1
+Trust.Zone,AMARUTU-TECHNOLOGY,1,1.11,1
+Trust.Zone,ARTNET,1,1.11,1
+Trust.Zone,ASDETUK www.heficed.com,1,1.11,1
+Trust.Zone,CLOUDLEASE,1,1.11,1
+Trust.Zone,DIGITALOCEAN-ASN,1,1.11,1
+Trust.Zone,INT-5GN-AS-AP 5G NETWORK OPERATIONS PTY LTD,1,1.11,1
+Trust.Zone,ITL-LV,1,1.11,1
+Trust.Zone,"KEMINET A datacenter located in TiranaAlbania. Webhosting, Dedicated Servers, VPS, IPv4IPv6 leasing",1,1.11,1
+Trust.Zone,RADORE,1,1.11,1
+Trust.Zone,SERVER server.ua,1,1.11,1
+Trust.Zone,VIRTUALSYSTEMS,1,1.11,1
+VPNUK,CWCS-VM CompuWeb Communications Services Ltd,18,20.69,1
+VPNUK,"ONEPROVIDER-AS BrainStorm Network, Inc",15,17.24,1
+VPNUK,IOMART-AS,14,16.09,1
+VPNUK,THE,8,9.2,1
+VPNUK,"UKSERVERS-AS UK Dedicated Servers, Hosting and Co-Location",4,4.6,1
+VPNUK,AS-VULTR,3,3.45,1
+VPNUK,ASN-METANET Routingpeering issues: noc@metanet.ch,3,3.45,1
+VPNUK,M247,3,3.45,1
+VPNUK,SIMPLYTRANSIT,3,3.45,1
+VPNUK,ASSEFLOW,2,2.3,1
+VPNUK,NOCIX,2,2.3,1
+VPNUK,Online SAS,2,2.3,1
+VPNUK,COMVIVE-AS Seville - Spain,1,1.15,1
+VPNUK,HVC-AS,1,1.15,1
+VPNUK,IOMART-IE,1,1.15,1
+VPNUK,IXIR,1,1.15,1
+VPNUK,LEASEWEB-APAC-HKG-10 LEASEWEB HONG KONG LIMITED,1,1.15,1
+VPNUK,LEASEWEB-DE-FRA-10,1,1.15,1
+VPNUK,MYLOC-AS IP Backbone of WIIT AG formerly myLoc managed IT AG,1,1.15,1
+VPNUK,Unknown,1,1.15,0
+VPNUK,WEBWORLD-AS ta Web World Ireland,1,1.15,1
+VPNUK,WII,1,1.15,1
+VPN Jantit,"ALIBABA-CN-NET Alibaba US Technology Co., Ltd.",22,11.46,1
+VPN Jantit,GCS-AS,18,9.38,1
+VPN Jantit,FORTIS-AS Hosting services,16,8.33,1
+VPN Jantit,OVH,16,8.33,1
+VPN Jantit,AS-VULTR,11,5.73,1
+VPN Jantit,KAOPU-HK Kaopu Cloud HK Limited,8,4.17,1
+VPN Jantit,GREENFLOID-AS,6,3.13,1
+VPN Jantit,AS-GLOBALTELEHOST,5,2.6,1
+VPN Jantit,DIGITALOCEAN-ASN,5,2.6,1
+VPN Jantit,ONEASIAHOST OneAsiaHost,5,2.6,1
+VPN Jantit,THE,5,2.6,1
+VPN Jantit,COMFACCORPORATION-AS-AP COMFAC CORPORATION,4,2.08,1
+VPN Jantit,"IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE.",4,2.08,1
+VPN Jantit,AS40676 - Psychz Networks,3,1.56,1
+VPN Jantit,GF-UA,3,1.56,1
+VPN Jantit,IDNIC-BIZNETGIO-AS-ID PT Biznet Gio Nusantara,3,1.56,1
+VPN Jantit,"SIAMDATA-TH Siamdata Communication Co.,Ltd.",3,1.56,1
+VPN Jantit,"ETPI-IDS-AS-AP Eastern Telecoms Phils., Inc.",2,1.04,1
+VPN Jantit,FIRST-SERVER-EU-AS FIRST-SERVER-US,2,1.04,1
+VPN Jantit,FIRST-SERVER-EUROPE,2,1.04,1
+VPN Jantit,GCORE,2,1.04,1
+VPN Jantit,GIR-AS,2,1.04,1
+VPN Jantit,IDNIC-ATHAMEDIANET-AS-ID CV Atha Media Prima,2,1.04,1
+VPN Jantit,IDNIC-BSTI-AS-ID PT Berkah Solusi Teknologi Informasi,2,1.04,1
+VPN Jantit,ITL-BG,2,1.04,1
+VPN Jantit,KAZTELECOM-AS,2,1.04,1
+VPN Jantit,RACKFOREST-AS,2,1.04,1
+VPN Jantit,SERVHOST-AS,2,1.04,1
+VPN Jantit,SPARKED,2,1.04,1
+VPN Jantit,ULTAHOST-AP-AS,2,1.04,1
+VPN Jantit,VHOST-AS-VN Viet Solutions Services Trading Company Limited,2,1.04,1
+VPN Jantit,VIETTELCAMBODIA-AS-AP ISPIXP IN CAMBODIA WITH THE BEST VERVICE IN THERE.,2,1.04,1
+VPN Jantit,ZEN-ECN,2,1.04,1
+VPN Jantit,ZHOUYISAT-COMMUNICATIONS,2,1.04,1
+VPN Jantit,"ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd.",1,0.52,1
+VPN Jantit,AS-COLOCROSSING,1,0.52,1
+VPN Jantit,AS-GEOHOSTING,1,0.52,1
+VPN Jantit,AS-ITFRUIT,1,0.52,1
+VPN Jantit,AS62212,1,0.52,1
+VPN Jantit,CAT-CLOUD-AP CAT Telecom Public Company Limited,1,0.52,1
+VPN Jantit,GHOST,1,0.52,1
+VPN Jantit,HZ-EU-AS,1,0.52,1
+VPN Jantit,Host-Africa-AS,1,0.52,1
+VPN Jantit,Host-Africa-AS2,1,0.52,1
+VPN Jantit,I-SERVERS-NORTH-EU to AS51765 announce AS207569,1,0.52,1
+VPN Jantit,IL,1,0.52,1
+VPN Jantit,INTERNETBILISIM,1,0.52,1
+VPN Jantit,ITLDC-EU,1,0.52,1
+VPN Jantit,MASSIVEGRID,1,0.52,1
+VPN Jantit,NKTELECOM,1,0.52,1
+VPN Jantit,Online SAS,1,0.52,1
+VPN Jantit,PONYNET,1,0.52,1
+VPN Jantit,ROUTE95,1,0.52,1
+VPN Jantit,SERVERASTRA-AS,1,0.52,1
+VPN Jantit,VHOST-HOLDINGS-SG vHost Holdings Pte Ltd,1,0.52,1
+AzireVPN,CDN77 _,19,29.69,1
+AzireVPN,OBEHOSTING Obehosting AB,7,10.94,1
+AzireVPN,HOSTHATCH,6,9.38,1
+AzireVPN,TZULO,5,7.81,1
+AzireVPN,NETROUTING-AS,4,6.25,1
+AzireVPN,"TWELVE99 Arelion, fka Telia Carrier",4,6.25,1
+AzireVPN,BLIX,2,3.13,1
+AzireVPN,OWL Owl Limited,2,3.13,1
+AzireVPN,RYAMER,2,3.13,1
+AzireVPN,VELOXSERV,2,3.13,1
+AzireVPN,AS40028 - 1651884 Ontario Inc.,1,1.56,1
+AzireVPN,"BANGMODENTERPRISE-TH Bangmod Enterprise Co., Ltd.",1,1.56,1
+AzireVPN,BLXGRP,1,1.56,1
+AzireVPN,CLOUDSINGULARITY,1,1.56,1
+AzireVPN,DEDICATED,1,1.56,1
+AzireVPN,HOST-AS-AP Host Universal Pty Ltd,1,1.56,1
+AzireVPN,IDNIC-SUITEN-AS-ID PT. SUITEN INOVASI SUKSES,1,1.56,1
+AzireVPN,IFX18747,1,1.56,1
+AzireVPN,MANN-IT-AS,1,1.56,1
+AzireVPN,OWL-AS-AP Owl Limited,1,1.56,1
+AzireVPN,SERVER server.ua,1,1.56,1
+Hotspotshield,M247,14,31.82,1
+Hotspotshield,Unknown,7,15.91,0
+Hotspotshield,CDNEXT,5,11.36,1
+Hotspotshield,PILOT,5,11.36,1
+Hotspotshield,CDN77 _,2,4.55,1
+Hotspotshield,AS40676 - Psychz Networks,1,2.27,1
+Hotspotshield,BOUYGTEL-B2B,1,2.27,1
+Hotspotshield,CENTURY-LTD,1,2.27,1
+Hotspotshield,INDE-PTE-EU,1,2.27,1
+Hotspotshield,IT2-AS-AP IT Nut Hosting,1,2.27,1
+Hotspotshield,LATITUDE-SH,1,2.27,1
+Hotspotshield,PLI-AS,1,2.27,1
+Hotspotshield,RACKRAY UAB Rakrejus,1,2.27,1
+Hotspotshield,"SERVERFIELD-AS Serverfield Co., Ltd.",1,2.27,1
+Hotspotshield,WICHITA-INTER-KONNECTS-1LL4H,1,2.27,1
+Hotspotshield,YURTEH-AS,1,2.27,1
+NordVPN,CDNEXT,2708,28.76,1
+NordVPN,PACKETHUBSA-AS-AP PacketHub S.A.,2186,23.21,3
+NordVPN,M247,1167,12.39,1
+NordVPN,CLOUVIDER Clouvider - Global ASN,1079,11.46,1
+NordVPN,BANDWIDTH-AS,590,6.27,1
+NordVPN,CDN77 _,425,4.51,1
+NordVPN,GSLNETWORKS-AS-AP GSL Networks Pty LTD,368,3.91,1
+NordVPN,PACKETHUBSA,343,3.64,1
+NordVPN,LATITUDE-SH,103,1.09,1
+NordVPN,Latitude.sh LTDA,70,0.74,1
+NordVPN,HOSTROYALE,68,0.72,2
+NordVPN,HOST-AS-AP Host Universal Pty Ltd,51,0.54,1
+NordVPN,GLOBALLAYER,47,0.5,1
+NordVPN,NEXEON,39,0.41,1
+NordVPN,BANDWIDTH-ASIA,30,0.32,1
+NordVPN,"UKSERVERS-AS UK Dedicated Servers, Hosting and Co-Location",24,0.25,1
+NordVPN,INTERNETBOLAGET,17,0.18,1
+NordVPN,HR-CUSTOMER,16,0.17,1
+NordVPN,GTT-BACKBONE GTT,12,0.13,1
+NordVPN,ALTUS,10,0.11,1
+NordVPN,AS41564,10,0.11,1
+NordVPN,BT-UK-AS BTnet UK Regional network,8,0.08,1
+NordVPN,VIVIDHOSTING,8,0.08,1
+NordVPN,MADCOM-ASN,7,0.07,1
+NordVPN,Online SAS,5,0.05,1
+NordVPN,PACKETEXCHANGE,5,0.05,1
+NordVPN,ENDOFFICE,4,0.04,1
+NordVPN,ROGERS-COMMUNICATIONS,4,0.04,1
+NordVPN,VERSATEL,4,0.04,1
+NordVPN,WEB2OBJECTS,4,0.04,1
+NordVPN,TRABIA,3,0.03,1
+NordVPN,TELEKS-,2,0.02,1
+Mullvad,TZULO,254,22.18,1
+Mullvad,M247,180,15.72,1
+Mullvad,ESAB-AS,173,15.11,1
+Mullvad,CDNEXT,143,12.49,1
+Mullvad,CDN77 _,101,8.82,1
+Mullvad,HOSTROYALE,76,6.64,2
+Mullvad,OWL Owl Limited,42,3.67,1
+Mullvad,HOST-AS-AP Host Universal Pty Ltd,40,3.49,1
+Mullvad,ZEN-ECN,24,2.1,1
+Mullvad,BLIX,23,2.01,1
+Mullvad,UK2NET-AS,17,1.48,1
+Mullvad,CLOUDSINGULARITY,8,0.7,1
+Mullvad,OWL-AS-AP Owl Limited,8,0.7,1
+Mullvad,CREANOVA-AS Oy Creanova Hosting Solutions Ltd.,6,0.52,1
+Mullvad,JONE,6,0.52,1
+Mullvad,WESTHOST,5,0.44,1
+Mullvad,XTOM xTom,5,0.44,1
+Mullvad,AS-CYBER-DATA,4,0.35,1
+Mullvad,BYTENODE-AS,4,0.35,1
+Mullvad,DATABRIDGE,4,0.35,1
+Mullvad,HAYASHIMO,4,0.35,1
+Mullvad,"KEMINET A datacenter located in TiranaAlbania. Webhosting, Dedicated Servers, VPS, IPv4IPv6 leasing",4,0.35,1
+Mullvad,PLI-AS,4,0.35,1
+Mullvad,VELOXSERV,4,0.35,1
+Mullvad,XTOM,4,0.35,1
+Mullvad,HR-CUSTOMER,2,0.17,1
+VPNSecure,OVH,29,48.33,1
+VPNSecure,"ONEPROVIDER-AS BrainStorm Network, Inc",10,16.67,1
+VPNSecure,IOMART-IE,3,5.0,1
+VPNSecure,CDNEXT,2,3.33,1
+VPNSecure,DELTAHOST-KYIV,2,3.33,1
+VPNSecure,DOT,2,3.33,1
+VPNSecure,KAMATERA,2,3.33,1
+VPNSecure,Online SAS,2,3.33,1
+VPNSecure,BAHNHOF,1,1.67,1
+VPNSecure,CLOUDWEBMANAGE-,1,1.67,1
+VPNSecure,CLOUDWEBMANAGE-UK-1,1,1.67,1
+VPNSecure,FASTPANDA,1,1.67,1
+VPNSecure,LEASEWEB-APAC-HKG-10 LEASEWEB HONG KONG LIMITED,1,1.67,1
+VPNSecure,NHL-AS1,1,1.67,1
+VPNSecure,SERVERUM-AS,1,1.67,1
+VPNSecure,WHG-IN,1,1.67,1
+OysterVPN,"ONEPROVIDER-AS BrainStorm Network, Inc",37,72.55,1
+OysterVPN,KAOPU-HK Kaopu Cloud HK Limited,8,15.69,1
+OysterVPN,AS40676 - Psychz Networks,1,1.96,1
+OysterVPN,DIGITALOCEAN-ASN,1,1.96,1
+OysterVPN,IXIR,1,1.96,1
+OysterVPN,LEASEWEB-APAC-HKG-10 LEASEWEB HONG KONG LIMITED,1,1.96,1
+OysterVPN,LEASEWEB-USA-LAX,1,1.96,1
+OysterVPN,WEBWORLD-AS ta Web World Ireland,1,1.96,1
+ProtonVPN,CDNEXT,569,36.29,1
+ProtonVPN,M247,408,26.02,1
+ProtonVPN,CDN77 _,377,24.04,1
+ProtonVPN,WORLDSTREAM,50,3.19,1
+ProtonVPN,HOST-AS-AP Host Universal Pty Ltd,31,1.98,1
+ProtonVPN,PROTONVPN,22,1.4,1
+ProtonVPN,PROTONVPN-2,18,1.15,1
+ProtonVPN,ESTNOC-GLOBAL,13,0.83,1
+ProtonVPN,NFORCE,10,0.64,1
+ProtonVPN,NOVOSERVE-AS,7,0.45,1
+ProtonVPN,LATITUDE-SH,6,0.38,1
+ProtonVPN,NOVOSERVE-CUSTOMERS-AS NovoServe Customers ASN,5,0.32,1
+ProtonVPN,SERVERS-COM,5,0.32,1
+ProtonVPN,PERFORMIVE,4,0.26,1
+ProtonVPN,BANDWIDTH-AS,3,0.19,1
+ProtonVPN,ALTUS,2,0.13,1
+ProtonVPN,AS-GLOBALTELEHOST,2,0.13,1
+ProtonVPN,AS41564,2,0.13,1
+ProtonVPN,CABLENET-AS,2,0.13,1
+ProtonVPN,FARICE-AS,2,0.13,1
+ProtonVPN,GSLNETWORKS-AS-AP GSL Networks Pty LTD,2,0.13,1
+ProtonVPN,HOSTROYALE,2,0.13,1
+ProtonVPN,"KEMINET A datacenter located in TiranaAlbania. Webhosting, Dedicated Servers, VPS, IPv4IPv6 leasing",2,0.13,1
+ProtonVPN,LIMESTONENETWORKS,2,0.13,1
+ProtonVPN,MIVOCLOUD,2,0.13,1
+ProtonVPN,PV-HOSTED,2,0.13,1
+ProtonVPN,XTOM-AS-JP xTom,2,0.13,1
+ProtonVPN,XTOM-JAPAN xTom Japan Corporation,2,0.13,1
+ProtonVPN,AMANAHA-NEW,1,0.06,1
+ProtonVPN,BAHNHOF,1,0.06,1
+ProtonVPN,CREANOVA-AS Oy Creanova Hosting Solutions Ltd.,1,0.06,1
+ProtonVPN,DHH-AS,1,0.06,1
+ProtonVPN,FIBERGRID,1,0.06,1
+ProtonVPN,GLOBALHOST-BOSNIA-AS,1,0.06,1
+ProtonVPN,HOSTINGINSIDE HostingInside LTD.,1,0.06,1
+ProtonVPN,IDNIC-SUITEN-AS-ID PT. SUITEN INOVASI SUKSES,1,0.06,1
+ProtonVPN,INTERSPACE-EUROPE,1,0.06,1
+ProtonVPN,IST-AS,1,0.06,1
+ProtonVPN,PACKETEXCHANGE,1,0.06,1
+ProtonVPN,PALTEL-AS PALTEL Autonomous System,1,0.06,1
+ProtonVPN,TELE2,1,0.06,1
+ProtonVPN,USA-2022,1,0.06,1
+Zoogvpn,"ONEPROVIDER-AS BrainStorm Network, Inc",12,14.29,1
+Zoogvpn,OVH,7,8.33,1
+Zoogvpn,KAOPU-HK Kaopu Cloud HK Limited,6,7.14,1
+Zoogvpn,M247,6,7.14,1
+Zoogvpn,AS40676 - Psychz Networks,5,5.95,1
+Zoogvpn,THE,4,4.76,1
+Zoogvpn,AS-GLOBALTELEHOST,3,3.57,1
+Zoogvpn,CDNEXT,2,2.38,1
+Zoogvpn,LEASEWEB-NL-AMS-01 Netherlands,2,2.38,1
+Zoogvpn,MYLOC-AS IP Backbone of WIIT AG formerly myLoc managed IT AG,2,2.38,1
+Zoogvpn,UKRAINE-AS,2,2.38,1
+Zoogvpn,AS-VULTR,1,1.19,1
+Zoogvpn,ASSEFLOW,1,1.19,1
+Zoogvpn,BYTEVIRTLLC,1,1.19,1
+Zoogvpn,CREANOVA-AS Oy Creanova Hosting Solutions Ltd.,1,1.19,1
+Zoogvpn,DMIT,1,1.19,1
+Zoogvpn,ESECUREDATA,1,1.19,1
+Zoogvpn,FAIRYHOSTING,1,1.19,1
+Zoogvpn,GOODHOSTKZ Goodhost.KZ - Hosting provider of Kazakhstan. Dedicated and VDSVPS hosting,1,1.19,1
+Zoogvpn,HOOPLAHOSTING-AS-AP Hoopla Hosting Limited,1,1.19,1
+Zoogvpn,HQSERV_NETWORKS,1,1.19,1
+Zoogvpn,I-SERVERS-NORTH-EU to AS51765 announce AS207569,1,1.19,1
+Zoogvpn,INTERHOST,1,1.19,1
+Zoogvpn,IPAX-AS,1,1.19,1
+Zoogvpn,IST-AS,1,1.19,1
+Zoogvpn,LAMA-AS-VN LAM A ARCHITECTURE CONSTRUCTION COMPANY LIMITED,1,1.19,1
+Zoogvpn,LATITUDE-SH,1,1.19,1
+Zoogvpn,LIGHT4-AS-AP LIGHT NODE LIMITED,1,1.19,1
+Zoogvpn,LITESERVER,1,1.19,1
+Zoogvpn,Latitude.sh LTDA,1,1.19,1
+Zoogvpn,MELBICOM-EU-AS Melbikomas UAB,1,1.19,1
+Zoogvpn,METRABYTE-TH 453 Ladplacout Jorakhaebua,1,1.19,1
+Zoogvpn,NFORCE,1,1.19,1
+Zoogvpn,NUSANET-AS-ID PT. Media Antar Nusa,1,1.19,1
+Zoogvpn,Online SAS,1,1.19,1
+Zoogvpn,PROSERVICE,1,1.19,1
+Zoogvpn,SCALAXY-AS,1,1.19,1
+Zoogvpn,SERVER-MANIA,1,1.19,1
+Zoogvpn,SERVERASTRA-AS,1,1.19,1
+Zoogvpn,SUNUCUN,1,1.19,1
+Zoogvpn,TELECOM-ARMENIA Telecom Armenia AS,1,1.19,1
+Zoogvpn,TRABIA,1,1.19,1
+Zoogvpn,VIRTUALSYSTEMS,1,1.19,1
+Zoogvpn,xneelo,1,1.19,1
+IPVanish,NETPROTECT-62651,1495,44.11,1
+IPVanish,CLOUVIDER Clouvider - Global ASN,580,17.11,1
+IPVanish,"STL-AS-AP Strong Technology, LLC",276,8.14,1
+IPVanish,STRTEC,161,4.75,1
+IPVanish,COGENT-174,134,3.95,1
+IPVanish,SHARKTECH,81,2.39,1
+IPVanish,NETPROTECT-SP,63,1.86,1
+IPVanish,AS-COLOCROSSING,59,1.74,1
+IPVanish,VOXILITY,47,1.39,1
+IPVanish,ZEN-ECN,45,1.33,1
+IPVanish,AS-INCX,40,1.18,1
+IPVanish,NFORCE,39,1.15,1
+IPVanish,GSLNETWORKS-AS-AP GSL Networks Pty LTD,38,1.12,1
+IPVanish,M247,38,1.12,1
+IPVanish,SERVER-MANIA,35,1.03,1
+IPVanish,"UKSERVERS-AS UK Dedicated Servers, Hosting and Co-Location",35,1.03,1
+IPVanish,NETPROTECT-PHX,34,1.0,1
+IPVanish,CDNEXT,29,0.86,1
+IPVanish,BANDWIDTH-AS,26,0.77,1
+IPVanish,UK2NET-AS,20,0.59,1
+IPVanish,ESTNOC-GLOBAL,17,0.5,1
+IPVanish,CREANOVA-AS Oy Creanova Hosting Solutions Ltd.,14,0.41,1
+IPVanish,LATITUDE-SH,13,0.38,1
+IPVanish,GBNETWORK-AS-AP GB Network Solutions Sdn. Bhd.,11,0.32,1
+IPVanish,HOSTROYALE,11,0.32,1
+IPVanish,Data Miners S.A.  Racknation.cr,10,0.3,1
+IPVanish,TRABIA,10,0.3,1
+IPVanish,XTOM-AS-JP xTom,10,0.3,1
+IPVanish,"KEMINET A datacenter located in TiranaAlbania. Webhosting, Dedicated Servers, VPS, IPv4IPv6 leasing",7,0.21,1
+IPVanish,HR-CUSTOMER,6,0.18,1
+IPVanish,ALTUS,5,0.15,1
+WLVPN,NETPROTECT-62651,1496,43.91,1
+WLVPN,CLOUVIDER Clouvider - Global ASN,581,17.05,1
+WLVPN,"STL-AS-AP Strong Technology, LLC",276,8.1,1
+WLVPN,STRTEC,176,5.17,1
+WLVPN,COGENT-174,134,3.93,1
+WLVPN,SHARKTECH,81,2.38,1
+WLVPN,NETPROTECT-SP,63,1.85,1
+WLVPN,AS-COLOCROSSING,59,1.73,1
+WLVPN,VOXILITY,47,1.38,1
+WLVPN,ZEN-ECN,45,1.32,1
+WLVPN,AS-INCX,40,1.17,1
+WLVPN,NFORCE,39,1.14,1
+WLVPN,GSLNETWORKS-AS-AP GSL Networks Pty LTD,38,1.12,1
+WLVPN,M247,38,1.12,1
+WLVPN,SERVER-MANIA,35,1.03,1
+WLVPN,"UKSERVERS-AS UK Dedicated Servers, Hosting and Co-Location",35,1.03,1
+WLVPN,NETPROTECT-PHX,34,1.0,1
+WLVPN,CDNEXT,29,0.85,1
+WLVPN,BANDWIDTH-AS,26,0.76,1
+WLVPN,UK2NET-AS,20,0.59,1
+WLVPN,ESTNOC-GLOBAL,18,0.53,1
+WLVPN,CREANOVA-AS Oy Creanova Hosting Solutions Ltd.,14,0.41,1
+WLVPN,LATITUDE-SH,13,0.38,1
+WLVPN,GBNETWORK-AS-AP GB Network Solutions Sdn. Bhd.,11,0.32,1
+WLVPN,HOSTROYALE,11,0.32,1
+WLVPN,Data Miners S.A.  Racknation.cr,10,0.29,1
+WLVPN,TRABIA,10,0.29,1
+WLVPN,XTOM-AS-JP xTom,10,0.29,1
+WLVPN,"KEMINET A datacenter located in TiranaAlbania. Webhosting, Dedicated Servers, VPS, IPv4IPv6 leasing",7,0.21,1
+WLVPN,HR-CUSTOMER,6,0.18,1
+WLVPN,ALTUS,5,0.15,1
+PureVPN,CDNEXT,127,30.31,1
+PureVPN,M247,93,22.2,1
+PureVPN,GSLNETWORKS-AS-AP GSL Networks Pty LTD,49,11.69,1
+PureVPN,GBNETWORK-AS-AP GB Network Solutions Sdn. Bhd.,47,11.22,1
+PureVPN,LIMESTONENETWORKS,11,2.63,1
+PureVPN,LATITUDE-SH,9,2.15,1
+PureVPN,GCORE,8,1.91,1
+PureVPN,MELBICOM-EU-AS Melbikomas UAB,8,1.91,1
+PureVPN,AMARUTU-TECHNOLOGY,6,1.43,1
+PureVPN,TELE2,6,1.43,1
+PureVPN,AS-COLOCROSSING,5,1.19,1
+PureVPN,BANDWIDTH-AS,5,1.19,1
+PureVPN,CDN77 _,5,1.19,1
+PureVPN,NETMINDERS,5,1.19,1
+PureVPN,VOXILITY,5,1.19,1
+PureVPN,ALTUS,4,0.95,1
+PureVPN,HOST-AS-AP Host Universal Pty Ltd,4,0.95,1
+PureVPN,HOSTROYALE,4,0.95,1
+PureVPN,"KEMINET A datacenter located in TiranaAlbania. Webhosting, Dedicated Servers, VPS, IPv4IPv6 leasing",4,0.95,1
+PureVPN,TRABIA,4,0.95,1
+PureVPN,INIOS-AS,2,0.48,1
+PureVPN,LEASEWEB-USA-PHX,2,0.48,1
+PureVPN,Latitude.sh LTDA,2,0.48,1
+PureVPN,INT-5GN-AS-AP 5G NETWORK OPERATIONS PTY LTD,1,0.24,1
+PureVPN,LEASEWEB-USA-MIA,1,0.24,1
+PureVPN,LEASEWEB-USA-WDC,1,0.24,1
+PureVPN,LIMITEDNETWORK-AS,1,0.24,1
+Ivacy,CDNEXT,24,30.0,1
+Ivacy,M247,13,16.25,1
+Ivacy,GSLNETWORKS-AS-AP GSL Networks Pty LTD,9,11.25,1
+Ivacy,GBNETWORK-AS-AP GB Network Solutions Sdn. Bhd.,8,10.0,1
+Ivacy,HOST-AS-AP Host Universal Pty Ltd,3,3.75,1
+Ivacy,TELE2,3,3.75,1
+Ivacy,AMARUTU-TECHNOLOGY,2,2.5,1
+Ivacy,AS-COLOCROSSING,2,2.5,1
+Ivacy,CDN77 _,2,2.5,1
+Ivacy,GCORE,2,2.5,1
+Ivacy,LATITUDE-SH,2,2.5,1
+Ivacy,MELBICOM-EU-AS Melbikomas UAB,2,2.5,1
+Ivacy,ALTUS,1,1.25,1
+Ivacy,HOSTROYALE,1,1.25,1
+Ivacy,INIOS-AS,1,1.25,1
+Ivacy,"KEMINET A datacenter located in TiranaAlbania. Webhosting, Dedicated Servers, VPS, IPv4IPv6 leasing",1,1.25,1
+Ivacy,LEASEWEB-USA-WDC,1,1.25,1
+Ivacy,LIMESTONENETWORKS,1,1.25,1
+Ivacy,TRABIA,1,1.25,1
+Ivacy,VOXILITY,1,1.25,1
+StrongVPN,STRTEC,226,41.93,1
+StrongVPN,NETPROTECT-62651,199,36.92,1
+StrongVPN,CLOUVIDER Clouvider - Global ASN,16,2.97,1
+StrongVPN,"STL-AS-AP Strong Technology, LLC",12,2.23,1
+StrongVPN,HOSTROYALE,8,1.48,1
+StrongVPN,M247,8,1.48,1
+StrongVPN,NETPROTECT-PHX,8,1.48,1
+StrongVPN,SERVER-MANIA,8,1.48,1
+StrongVPN,CDNEXT,7,1.3,1
+StrongVPN,COGENT-174,7,1.3,1
+StrongVPN,"UKSERVERS-AS UK Dedicated Servers, Hosting and Co-Location",7,1.3,1
+StrongVPN,AS-INCX,6,1.11,1
+StrongVPN,ESTNOC-GLOBAL,4,0.74,1
+StrongVPN,ALTUS,3,0.56,1
+StrongVPN,GBNETWORK-AS-AP GB Network Solutions Sdn. Bhd.,3,0.56,1
+StrongVPN,SHARKTECH,3,0.56,1
+StrongVPN,ZEN-ECN,3,0.56,1
+StrongVPN,Data Miners S.A.  Racknation.cr,2,0.37,1
+StrongVPN,GSLNETWORKS-AS-AP GSL Networks Pty LTD,2,0.37,1
+StrongVPN,Unknown,2,0.37,0
+StrongVPN,VOXILITY,2,0.37,1
+StrongVPN,CREANOVA-AS Oy Creanova Hosting Solutions Ltd.,1,0.19,1
+StrongVPN,LATITUDE-SH,1,0.19,1
+StrongVPN,PERFORMIVE,1,0.19,1
+TorGuard,M247,363,83.07,1
+TorGuard,DIGITALOCEAN-ASN,12,2.75,1
+TorGuard,GIGAHOST,11,2.52,1
+TorGuard,INT-5GN-AS-AP 5G NETWORK OPERATIONS PTY LTD,7,1.6,1
+TorGuard,NEXEON,7,1.6,1
+TorGuard,"CAT-AP The Communication Authoity of Thailand, CAT",4,0.92,1
+TorGuard,ESTNOC-GLOBAL,4,0.92,1
+TorGuard,ALMOUROLTEC,3,0.69,1
+TorGuard,AS-GLOBALTELEHOST,3,0.69,1
+TorGuard,CREANOVA-AS Oy Creanova Hosting Solutions Ltd.,3,0.69,1
+TorGuard,"ONEPROVIDER-AS BrainStorm Network, Inc",3,0.69,1
+TorGuard,TRABIA,3,0.69,1
+TorGuard,iHosting Servicios Internet Ltda.,3,0.69,1
+TorGuard,AS40676 - Psychz Networks,2,0.46,1
+TorGuard,HQSERV_NETWORKS,2,0.46,1
+TorGuard,PERFORMIVE,2,0.46,1
+TorGuard,UK2NET-AS,2,0.46,1
+TorGuard,M247 Enterprise Services,1,0.23,1
+TorGuard,SERVER-MANIA,1,0.23,1
+TorGuard,Unknown,1,0.23,0
+PrivateVPN,PVDATANET,39,24.84,1
+PrivateVPN,CDN77 _,16,10.19,1
+PrivateVPN,M247,15,9.55,1
+PrivateVPN,"TWELVE99 Arelion, fka Telia Carrier",11,7.01,1
+PrivateVPN,DIGITALOCEAN-ASN,10,6.37,1
+PrivateVPN,ILAIT,8,5.1,1
+PrivateVPN,OBEHOSTING Obehosting AB,6,3.82,1
+PrivateVPN,IFX18747,5,3.18,1
+PrivateVPN,Autonomous System for Dataspace P.S.A.,4,2.55,1
+PrivateVPN,ZEN-ECN,4,2.55,1
+PrivateVPN,GCORE,3,1.91,1
+PrivateVPN,INT-5GN-AS-AP 5G NETWORK OPERATIONS PTY LTD,3,1.91,1
+PrivateVPN,AS-COLOCROSSING,2,1.27,1
+PrivateVPN,BLIX,2,1.27,1
+PrivateVPN,xneelo,2,1.27,1
+PrivateVPN,ALMOUROLTEC,1,0.64,1
+PrivateVPN,AMIS,1,0.64,1
+PrivateVPN,AUTO1-RIPE,1,0.64,1
+PrivateVPN,BALTKOM-AS,1,0.64,1
+PrivateVPN,BANDWIDTH-AS,1,0.64,1
+PrivateVPN,"BANGMODENTERPRISE-TH Bangmod Enterprise Co., Ltd.",1,0.64,1
+PrivateVPN,CL8ASN1,1,0.64,1
+PrivateVPN,CYTA-NETWORK Internet Services,1,0.64,1
+PrivateVPN,ESECUREDATA,1,0.64,1
+PrivateVPN,FAIRYHOSTING,1,0.64,1
+PrivateVPN,GHOST,1,0.64,1
+PrivateVPN,GTD PERU S.A,1,0.64,1
+PrivateVPN,HOST-AS-AP Host Universal Pty Ltd,1,0.64,1
+PrivateVPN,HOSTINGINSIDE HostingInside LTD.,1,0.64,1
+PrivateVPN,INTERNETBOLAGET-DE,1,0.64,1
+PrivateVPN,INTERNETO-VIZIJA,1,0.64,1
+PrivateVPN,LERTAS-AS,1,0.64,1
+PrivateVPN,MELITACABLE,1,0.64,1
+PrivateVPN,QNAX LTDA,1,0.64,1
+PrivateVPN,QTSC-AS-VN Quang Trung Software City Development Company,1,0.64,1
+PrivateVPN,RADIOGRAFICA COSTARRICENSE,1,0.64,1
+PrivateVPN,SERVER server.ua,1,0.64,1
+PrivateVPN,SERVERS-COM,1,0.64,1
+PrivateVPN,SUOMICOMMUNICATIONS,1,0.64,1
+PrivateVPN,THORDC-AS,1,0.64,1
+PrivateVPN,TRABIA,1,0.64,1
+PrivateVPN,UK-NETCETERA Netcetera Autonomous System Peers,1,0.64,1
+Safervpn,AS-VULTR,7,17.95,1
+Safervpn,DIGITALOCEAN-ASN,5,12.82,1
+Safervpn,EDIS-AS-EU,5,12.82,1
+Safervpn,"ONEPROVIDER-AS BrainStorm Network, Inc",3,7.69,1
+Safervpn,ALTUS,1,2.56,1
+Safervpn,CL8ASN1,1,2.56,1
+Safervpn,COMVIVE-AS Seville - Spain,1,2.56,1
+Safervpn,I4W,1,2.56,1
+Safervpn,IOMART-AS,1,2.56,1
+Safervpn,LEASEWEB-APAC-HKG-10 LEASEWEB HONG KONG LIMITED,1,2.56,1
+Safervpn,LITESERVER,1,2.56,1
+Safervpn,M247,1,2.56,1
+Safervpn,NEWPUSH,1,2.56,1
+Safervpn,NINE,1,2.56,1
+Safervpn,NV-ASN CELLCOM ltd.,1,2.56,1
+Safervpn,Online SAS,1,2.56,1
+Safervpn,PROENNET-AS Proen Corp Public Company Limited.,1,2.56,1
+Safervpn,SERVERSTADIUM,1,2.56,1
+Safervpn,SERVETHEWORLD-AS,1,2.56,1
+Safervpn,UPCLOUD,1,2.56,1
+Safervpn,WEBAIR-INTERNET,1,2.56,1
+Safervpn,ZAPPIE-HOST-AS Zappie Host,1,2.56,1
+Safervpn,xneelo,1,2.56,1
+SwitchVPN,AS-VULTR,29,35.37,1
+SwitchVPN,TELE-AS Tele Asia Limited,10,12.2,1
+SwitchVPN,PLI-AS,9,10.98,1
+SwitchVPN,ASSEFLOW,5,6.1,1
+SwitchVPN,"COREIX-UK-AS London, Great Britain",5,6.1,1
+SwitchVPN,LEASEWEB-NL-AMS-01 Netherlands,5,6.1,1
+SwitchVPN,IOMART-AS,2,2.44,1
+SwitchVPN,NETMINDERS,2,2.44,1
+SwitchVPN,AS-COLOCROSSING,1,1.22,1
+SwitchVPN,ASDETUK www.heficed.com,1,1.22,1
+SwitchVPN,BLIX,1,1.22,1
+SwitchVPN,EDIS-AS-EU,1,1.22,1
+SwitchVPN,EHOSTIDC-AS-KR Hostcenter,1,1.22,1
+SwitchVPN,GIGABIT-MY Gigabit Hosting Sdn Bhd,1,1.22,1
+SwitchVPN,HOSTROYALE,1,1.22,1
+SwitchVPN,"INTERNET-CZ Ktis 2, 384 03 Ktis",1,1.22,1
+SwitchVPN,IOFLOOD,1,1.22,1
+SwitchVPN,LCPDCO LCP AS dc oostkamp,1,1.22,1
+SwitchVPN,NETPLUS,1,1.22,1
+SwitchVPN,OVH,1,1.22,1
+SwitchVPN,SERVERS-COM,1,1.22,1
+SwitchVPN,TRANSATEL1-AS-AP Transatel,1,1.22,1
+SwitchVPN,W1N,1,1.22,1
+WiTopia,M247,125,20.26,1
+WiTopia,NTT-GLOBAL-DATA-CENTERS-AMERICA-INC,46,7.46,1
+WiTopia,Unknown,44,7.13,0
+WiTopia,OVH,40,6.48,1
+WiTopia,LEASEWEB-USA-LAX,25,4.05,1
+WiTopia,LEASEWEB-USA-NYC,25,4.05,1
+WiTopia,DEDICATED,20,3.24,1
+WiTopia,DIGITURUNC,20,3.24,1
+WiTopia,LEASEWEB-USA-CHI,20,3.24,1
+WiTopia,WITOPIA-AS1,18,2.92,1
+WiTopia,AMANAHA-NEW,15,2.43,1
+WiTopia,LEASEWEB-USA-DAL,15,2.43,1
+WiTopia,AXCELX-NET,10,1.62,1
+WiTopia,ESECUREDATA,10,1.62,1
+WiTopia,LEASEWEB-USA-SEA,10,1.62,1
+WiTopia,Online SAS,10,1.62,1
+WiTopia,WEHOSTWEBSITES-COM,10,1.62,1
+WiTopia,INT-5GN-AS-AP 5G NETWORK OPERATIONS PTY LTD,9,1.46,1
+WiTopia,NOCIX,8,1.3,1
+WiTopia,AS40676 - Psychz Networks,5,0.81,1
+WiTopia,BANDWIDTH-AS,5,0.81,1
+WiTopia,CNSERVER-AP-AS CNServer LLC,5,0.81,1
+WiTopia,EHOSTIDC-AS-KR Hostcenter,5,0.81,1
+WiTopia,FIBERFI,5,0.81,1
+WiTopia,GIGABIT-MY Gigabit Hosting Sdn Bhd,5,0.81,1
+WiTopia,H4Y-TECHNOLOGIES,5,0.81,1
+WiTopia,INTERSTAR,5,0.81,1
+WiTopia,IOMART-AS,5,0.81,1
+WiTopia,IST-AS,5,0.81,1
+WiTopia,LEAPSWITCH-IN-AS-AP LEAPSWITCH NETWORKS PRIVATE LIMITED,5,0.81,1
+WiTopia,LEASEWEB-NL-AMS-01 Netherlands,5,0.81,1
+WiTopia,LEASEWEB-USA-PHX,5,0.81,1
+WiTopia,Latitude.sh LTDA,5,0.81,1
+WiTopia,METRABYTE-TH 453 Ladplacout Jorakhaebua,5,0.81,1
+WiTopia,RIXHOST,5,0.81,1
+WiTopia,TIER4CLOU-AS Tier 4 Cloud Services,5,0.81,1
+WiTopia,WEBEX,5,0.81,1
+WiTopia,WEBHS WEBSP LDA,5,0.81,1
+WiTopia,ASSEFLOW,4,0.65,1
+WiTopia,CREANOVA-AS Oy Creanova Hosting Solutions Ltd.,4,0.65,1
+WiTopia,EGIHOSTING,4,0.65,1
+WiTopia,INTERHOST,4,0.65,1
+WiTopia,PLI-AS,4,0.65,1
+WiTopia,SELECTEL-MSK,4,0.65,1
+WiTopia,SERVERS-COM,4,0.65,1
+WiTopia,THORDC-AS,4,0.65,1
+WiTopia,VIETEL-AS-AP Viettel Group,4,0.65,1
+WiTopia,LUMEN-LEGACY-L3-CUSTOMER-SHARED-USE,3,0.49,1
+WiTopia,SILKGLOBAL DOMINICANA SRL,3,0.49,1
+WorldVPN,HETZNER-AS,62,34.07,1
+WorldVPN,HOSTHATCH,38,20.88,1
+WorldVPN,GREENFLOID-AS,14,7.69,1
+WorldVPN,THE,14,7.69,1
+WorldVPN,AS56971 AS56971 Cloud,10,5.49,1
+WorldVPN,OVH,8,4.4,1
+WorldVPN,ARUBA-ASN,5,2.75,1
+WorldVPN,CB-BYO-IP,5,2.75,1
+WorldVPN,GF-UA,5,2.75,1
+WorldVPN,ITL-BG,5,2.75,1
+WorldVPN,ITL-LV,5,2.75,1
+WorldVPN,VEESP-AS,3,1.65,1
+WorldVPN,"ALIBABA-CN-NET Alibaba US Technology Co., Ltd.",2,1.1,1
+WorldVPN,ITLDC-EU,2,1.1,1
+WorldVPN,ROUTE95,2,1.1,1
+WorldVPN,ASNET,1,0.55,1
+WorldVPN,TANGRAM-CANADA-INC,1,0.55,1
+Surfshark,CYBERZONEHUB,119,42.5,1
+Surfshark,CDNEXT,53,18.93,1
+Surfshark,HOSTROYALE,24,8.57,2
+Surfshark,M247,21,7.5,1
+Surfshark,CDN77 _,18,6.43,1
+Surfshark,HOST-AS-AP Host Universal Pty Ltd,9,3.21,1
+Surfshark,BANDWIDTH-AS,7,2.5,1
+Surfshark,TIER-NET,6,2.14,1
+Surfshark,CLOUVIDER Clouvider - Global ASN,5,1.79,1
+Surfshark,AS-INCX,3,1.07,1
+Surfshark,HR-CUSTOMER,3,1.07,1
+Surfshark,ARTNET,2,0.71,1
+Surfshark,DCE,2,0.71,1
+Surfshark,GLOBALLAYER,2,0.71,1
+Surfshark,NANO-AS,2,0.71,1
+Surfshark,AS-COLOCROSSING,1,0.36,1
+Surfshark,EHOSTIDC-AS-KR Hostcenter,1,0.36,1
+Surfshark,LATITUDE-SH,1,0.36,1
+Surfshark,NEXEON,1,0.36,1
+VPN.ac,M247,20,13.51,1
+VPN.ac,INT-5GN-AS-AP 5G NETWORK OPERATIONS PTY LTD,10,6.76,1
+VPN.ac,Online SAS,10,6.76,1
+VPN.ac,AS-COLOCROSSING,9,6.08,1
+VPN.ac,LEASEWEB-NL-AMS-01 Netherlands,9,6.08,1
+VPN.ac,AS40676 - Psychz Networks,8,5.41,1
+VPN.ac,FLOKINET,8,5.41,1
+VPN.ac,LEASEWEB-DE-FRA-10,8,5.41,1
+VPN.ac,NFORCE,7,4.73,1
+VPN.ac,NETMINDERS,6,4.05,1
+VPN.ac,ALTUS,5,3.38,1
+VPN.ac,INT-NETWORK,5,3.38,1
+VPN.ac,HVC-AS,4,2.7,1
+VPN.ac,LEASEWEB-APAC-SIN-11 LEASEWEB SINGAPORE PTE. LTD.,4,2.7,1
+VPN.ac,"UKSERVERS-AS UK Dedicated Servers, Hosting and Co-Location",4,2.7,1
+VPN.ac,IOMART-AS,3,2.03,1
+VPN.ac,IS-AS-1,3,2.03,1
+VPN.ac,LEASEWEB-APAC-HKG-10 LEASEWEB HONG KONG LIMITED,3,2.03,1
+VPN.ac,LEASEWEB-USA-SEA,3,2.03,1
+VPN.ac,OVH,3,2.03,1
+VPN.ac,AMANAHA-NEW,2,1.35,1
+VPN.ac,ESECUREDATA,2,1.35,1
+VPN.ac,LEASEWEB-USA-SFO,2,1.35,1
+VPN.ac,ALMOUROLTEC,1,0.68,1
+VPN.ac,AS-30083-US-VELIA-NET,1,0.68,1
+VPN.ac,ASDETUK www.heficed.com,1,0.68,1
+VPN.ac,CHERRYSERVERS1-AS,1,0.68,1
+VPN.ac,LEASEWEB-UK-LON-11,1,0.68,1
+VPN.ac,PLI-AS,1,0.68,1
+VPN.ac,SERVETHEWORLD-AS,1,0.68,1
+VPN.ac,UK2NET-AS,1,0.68,1
+VPN.ac,Unknown,1,0.68,0
+VPN.ac,WEHOSTWEBSITES-COM,1,0.68,1
+VPN Unlimited,AS-VULTR,67,20.49,1
+VPN Unlimited,DIGITALOCEAN-ASN,49,14.98,1
+VPN Unlimited,THE,43,13.15,1
+VPN Unlimited,"ONEPROVIDER-AS BrainStorm Network, Inc",28,8.56,1
+VPN Unlimited,PILOT,20,6.12,1
+VPN Unlimited,Online SAS,19,5.81,1
+VPN Unlimited,AMANAHA-NEW,8,2.45,1
+VPN Unlimited,M247,8,2.45,1
+VPN Unlimited,OVH,7,2.14,1
+VPN Unlimited,AKTON-AS Akton Autonomous System,6,1.83,1
+VPN Unlimited,ZAPPIE-HOST-AS Zappie Host,6,1.83,1
+VPN Unlimited,DEDICATED,5,1.53,1
+VPN Unlimited,ESECUREDATA,5,1.53,1
+VPN Unlimited,ARUBA-ASN,4,1.22,1
+VPN Unlimited,AS40676 - Psychz Networks,4,1.22,1
+VPN Unlimited,GF-UA,4,1.22,1
+VPN Unlimited,MYLOC-AS IP Backbone of WIIT AG formerly myLoc managed IT AG,4,1.22,1
+VPN Unlimited,OPTIMUS-AS,4,1.22,1
+VPN Unlimited,ENZUINC-,3,0.92,1
+VPN Unlimited,FDCSERVERS,3,0.92,1
+VPN Unlimited,IOMART-AS,3,0.92,1
+VPN Unlimited,LEASEWEB-USA-SEA,3,0.92,1
+VPN Unlimited,NETROUTING-AS,3,0.92,1
+VPN Unlimited,THEOPT-HOU,3,0.92,1
+VPN Unlimited,"UKSERVERS-AS UK Dedicated Servers, Hosting and Co-Location",3,0.92,1
+VPN Unlimited,AS-30083-US-VELIA-NET,2,0.61,1
+VPN Unlimited,HZ-EU-AS,2,0.61,1
+VPN Unlimited,LEASEWEB-USA-LAX,2,0.61,1
+VPN Unlimited,LIMESTONENETWORKS,2,0.61,1
+VPN Unlimited,SYNAPSECOM-AS SYNAPSECOM TELECOMS S.A.,2,0.61,1
+VPN Unlimited,COGENT-174,1,0.31,1
+VPN Unlimited,LEASEWEB-USA-SFO,1,0.31,1
+VPN Unlimited,SERVERSTADIUM,1,0.31,1
+VPN Unlimited,XSERVERCLOUD,1,0.31,1
+VPN Unlimited,xneelo,1,0.31,1
+Vpnht,Unknown,26,24.53,0
+Vpnht,DATAFOREST,15,14.15,1
+Vpnht,Online SAS,15,14.15,1
+Vpnht,VOXILITY,13,12.26,1
+Vpnht,WIPAK-AS,10,9.43,1
+Vpnht,CENTAURUS_AGENA3000,7,6.6,1
+Vpnht,AS-ANEXIA ANEXIA Internetdienstleistungs GmbH,5,4.72,1
+Vpnht,ONLYSERVERS Dedicated Server Hosting Provider,5,4.72,1
+Vpnht,Banka Kombetare Tregtare Sh.A.,3,2.83,1
+Vpnht,AS49870-BV,1,0.94,1
+Vpnht,ASERGO-AS,1,0.94,1
+Vpnht,EHOSTIDC-AS-KR Hostcenter,1,0.94,1
+Vpnht,IDCF IDC Frontier Inc.,1,0.94,1
+Vpnht,LEASEWEB-NL-AMS-01 Netherlands,1,0.94,1
+Vpnht,ORG-LVA15-AS,1,0.94,1
+Vpnht,ZAPPIE-HOST-AS Zappie Host,1,0.94,1
+CCrypto VPN,OVH,4,50.0,1
+CCrypto VPN,NANO-AS,2,25.0,1
+CCrypto VPN,HOSTSLIM-GLOBAL-NETWORK,1,12.5,1
+CCrypto VPN,TZULO,1,12.5,1
+AirVPN,M247,600,29.64,1
+AirVPN,GLOBALLAYER,576,28.46,1
+AirVPN,TZULO,224,11.07,1
+AirVPN,AMANAHA-NEW,208,10.28,1
+AirVPN,QUINTEX,88,4.35,1
+AirVPN,TEKNIKBYRAN,72,3.56,1
+AirVPN,NETROUTING-AS,64,3.16,1
+AirVPN,CLOUDSINGULARITY,48,2.37,1
+AirVPN,DEDICATED,40,1.98,1
+AirVPN,RIXHOST,32,1.58,1
+AirVPN,ALTUS,24,1.19,1
+AirVPN,SITEHOST-AS-AP SiteHost New Zealand,24,1.19,1
+AirVPN,ESTNOC-GLOBAL,8,0.4,1
+AirVPN,GIGABIT-MY Gigabit Hosting Sdn Bhd,8,0.4,1
+AirVPN,INT-5GN-AS-AP 5G NETWORK OPERATIONS PTY LTD,8,0.4,1
+GhostPath,AKAMAI-LINODE-AP Akamai Connected Cloud,23,18.11,1
+GhostPath,UK2NET-AS,8,6.3,1
+GhostPath,EDIS-AS-EU,7,5.51,1
+GhostPath,Unknown,7,5.51,0
+GhostPath,M247,6,4.72,1
+GhostPath,AS-COLOCROSSING,4,3.15,1
+GhostPath,GLESYS glesys.com,3,2.36,1
+GhostPath,VITALNG,3,2.36,1
+GhostPath,GTCOMM,2,1.57,1
+GhostPath,H4Y-TECHNOLOGIES,2,1.57,1
+GhostPath,INT-5GN-AS-AP 5G NETWORK OPERATIONS PTY LTD,2,1.57,1
+GhostPath,QUICKPACKET,2,1.57,1
+GhostPath,RELIABLESITE,2,1.57,1
+GhostPath,SECURITYNET-AS,2,1.57,1
+GhostPath,SERVERHOUSE,2,1.57,1
+GhostPath,ASN-ROUTELABEL,1,0.79,1
+GhostPath,AWEB-ASN,1,0.79,1
+GhostPath,AXCELX-NET,1,0.79,1
+GhostPath,CDM,1,0.79,1
+GhostPath,COGENT-174,1,0.79,1
+GhostPath,COMVIVE-AS Seville - Spain,1,0.79,1
+GhostPath,CORE-BACKBONE CORE-BACKBONE GMBH GLOBAL NETWORK,1,0.79,1
+GhostPath,DACEN-2,1,0.79,1
+GhostPath,DEDAUS-AS-AP Dedicated Servers Australia,1,0.79,1
+GhostPath,DELTAHOST-KYIV,1,0.79,1
+GhostPath,DIGITALOCEAN-ASN,1,0.79,1
+GhostPath,DIGIWEB-AS,1,0.79,1
+GhostPath,ENET-2,1,0.79,1
+GhostPath,ESTRUXTURE-QC-10929,1,0.79,1
+GhostPath,EXABYTES-AS-AP Exa Bytes Network Sdn.Bhd.,1,0.79,1
+GhostPath,FABIT-AS,1,0.79,1
+GhostPath,FAIRYHOSTING,1,0.79,1
+GhostPath,FDCSERVERS,1,0.79,1
+GhostPath,GIGAHOST,1,0.79,1
+GhostPath,GINERNET,1,0.79,1
+GhostPath,HSI-EUROPE,1,0.79,1
+GhostPath,HSO-GROUP,1,0.79,1
+GhostPath,HVC-AS,1,0.79,1
+GhostPath,INTERHOST,1,0.79,1
+GhostPath,Latitude.sh LTDA,1,0.79,1
+GhostPath,M5HOSTING,1,0.79,1
+GhostPath,NINE,1,0.79,1
+GhostPath,NOCIX,1,0.79,1
+GhostPath,OPTIMUS-AS,1,0.79,1
+GhostPath,OVH,1,0.79,1
+GhostPath,Offshore Racks S.A,1,0.79,1
+GhostPath,PDDA-AS,1,0.79,1
+GhostPath,RAJASA-AS-ID-AP PT. Raja Sepadan Abadi,1,0.79,1
+GhostPath,RAMNODE,1,0.79,1
+GhostPath,SERVENET-AS-TH-AP ServeNET Solution Limited Partnership,1,0.79,1
+GhostPath,SERVERASTRA-AS,1,0.79,1
+GhostPath,"SERVERFIELD-AS Serverfield Co., Ltd.",1,0.79,1
+GhostPath,SERVERS-COM,1,0.79,1
+GhostPath,SSASN2,1,0.79,1
+GhostPath,SYNAPSECOM-AS SYNAPSECOM TELECOMS S.A.,1,0.79,1
+GhostPath,TCTEL,1,0.79,1
+GhostPath,THEOPT-HOU,1,0.79,1
+GhostPath,THORDC-AS,1,0.79,1
+GhostPath,TIER-NET,1,0.79,1
+GhostPath,TRABIA,1,0.79,1
+GhostPath,"UKSERVERS-AS UK Dedicated Servers, Hosting and Co-Location",1,0.79,1
+GhostPath,VELOCIHOST,1,0.79,1
+GhostPath,VERSAWEB-ASN,1,0.79,1
+GhostPath,VOICE-NET-AS,1,0.79,1
+GhostPath,VOOSERVERS,1,0.79,1
+GhostPath,WEBHS WEBSP LDA,1,0.79,1
+GhostPath,iHosting Servicios Internet Ltda.,1,0.79,1
+FastestVPN,M247,38,55.07,1
+FastestVPN,"ONEPROVIDER-AS BrainStorm Network, Inc",13,18.84,1
+FastestVPN,VELOXSERV,5,7.25,1
+FastestVPN,AS40676 - Psychz Networks,2,2.9,1
+FastestVPN,DEDICATED,2,2.9,1
+FastestVPN,MYLOC-AS IP Backbone of WIIT AG formerly myLoc managed IT AG,2,2.9,1
+FastestVPN,BANDWIDTH-ASIA,1,1.45,1
+FastestVPN,EHOSTIDC-AS-KR Hostcenter,1,1.45,1
+FastestVPN,IXIR,1,1.45,1
+FastestVPN,LEASEWEB-USA-WDC,1,1.45,1
+FastestVPN,WEBHS WEBSP LDA,1,1.45,1
+FastestVPN,XSERVERCLOUD,1,1.45,1
+FastestVPN,xneelo,1,1.45,1
+Giganews,PHMGMT-AS1,54,73.97,1
+Giganews,PARAD-40-ASN,19,26.03,1
+VyprVPN,PHMGMT-AS1,54,73.97,1
+VyprVPN,PARAD-40-ASN,19,26.03,1
+SotaVPN,H2NEXUS-AS,4,50.0,1
+SotaVPN,LITESERVER,2,25.0,1
+SotaVPN,VEESP-LV-AS,2,25.0,1
+FrootVPN,M247,51,17.17,1
+FrootVPN,AS-GLOBALTELEHOST,32,10.77,2
+FrootVPN,HOST-AS-AP Host Universal Pty Ltd,16,5.39,1
+FrootVPN,ASN-VO Visual Online S.A. Luxembourg,14,4.71,1
+FrootVPN,FSNET-1,14,4.71,1
+FrootVPN,MYLOC-AS IP Backbone of WIIT AG formerly myLoc managed IT AG,11,3.7,1
+FrootVPN,GLESYS glesys.com,10,3.37,1
+FrootVPN,HQSERV_NETWORKS,10,3.37,1
+FrootVPN,LEASEWEB-NL-AMS-01 Netherlands,10,3.37,1
+FrootVPN,ARTNET,9,3.03,1
+FrootVPN,ASN-XTUDIONET,9,3.03,1
+FrootVPN,OVH,8,2.69,1
+FrootVPN,SERVER24-AS INCUBATEC GmbH - Srl,8,2.69,1
+FrootVPN,"UKSERVERS-AS UK Dedicated Servers, Hosting and Co-Location",8,2.69,1
+FrootVPN,ESECUREDATA,7,2.36,1
+FrootVPN,IOMART-IE,7,2.36,1
+FrootVPN,VIRTUALSYSTEMS,7,2.36,1
+FrootVPN,RADORE,6,2.02,1
+FrootVPN,AS62904 - Eonix Corporation,5,1.68,1
+FrootVPN,CREANOVA-AS Oy Creanova Hosting Solutions Ltd.,5,1.68,1
+FrootVPN,Data Miners S.A.  Racknation.cr,5,1.68,1
+FrootVPN,EHOSTIDC-AS-KR Hostcenter,5,1.68,1
+FrootVPN,GIGAHOST,5,1.68,1
+FrootVPN,GTCOMM,5,1.68,1
+FrootVPN,IDIGITAL,5,1.68,1
+FrootVPN,Latitude.sh LTDA,5,1.68,1
+FrootVPN,Online SAS,5,1.68,1
+FrootVPN,PLI-AS,5,1.68,1
+FrootVPN,SHINJIRU-MY-AS-AP Shinjiru Technology Sdn Bhd,5,1.68,1
+FrootVPN,TELE-AS Tele Asia Limited,5,1.68,1
+EasyHideIP,M247,51,17.06,1
+EasyHideIP,AS-GLOBALTELEHOST,32,10.7,2
+EasyHideIP,"UKSERVERS-AS UK Dedicated Servers, Hosting and Co-Location",20,6.69,1
+EasyHideIP,HOST-AS-AP Host Universal Pty Ltd,16,5.35,1
+EasyHideIP,ASN-VO Visual Online S.A. Luxembourg,14,4.68,1
+EasyHideIP,FSNET-1,14,4.68,1
+EasyHideIP,MYLOC-AS IP Backbone of WIIT AG formerly myLoc managed IT AG,11,3.68,1
+EasyHideIP,HQSERV_NETWORKS,10,3.34,1
+EasyHideIP,LEASEWEB-NL-AMS-01 Netherlands,10,3.34,1
+EasyHideIP,ARTNET,9,3.01,1
+EasyHideIP,ASN-XTUDIONET,9,3.01,1
+EasyHideIP,OVH,8,2.68,1
+EasyHideIP,SERVER24-AS INCUBATEC GmbH - Srl,8,2.68,1
+EasyHideIP,ESECUREDATA,7,2.34,1
+EasyHideIP,IOMART-IE,7,2.34,1
+EasyHideIP,VIRTUALSYSTEMS,7,2.34,1
+EasyHideIP,RADORE,6,2.01,1
+EasyHideIP,AS62904 - Eonix Corporation,5,1.67,1
+EasyHideIP,CREANOVA-AS Oy Creanova Hosting Solutions Ltd.,5,1.67,1
+EasyHideIP,Data Miners S.A.  Racknation.cr,5,1.67,1
+EasyHideIP,EHOSTIDC-AS-KR Hostcenter,5,1.67,1
+EasyHideIP,GIGAHOST,5,1.67,1
+EasyHideIP,IDIGITAL,5,1.67,1
+EasyHideIP,Latitude.sh LTDA,5,1.67,1
+EasyHideIP,Online SAS,5,1.67,1
+EasyHideIP,PLI-AS,5,1.67,1
+EasyHideIP,SHINJIRU-MY-AS-AP Shinjiru Technology Sdn Bhd,5,1.67,1
+EasyHideIP,TELE-AS Tele Asia Limited,5,1.67,1
+EasyHideIP,GTCOMM,4,1.34,1
+EasyHideIP,GLESYS glesys.com,1,0.33,1
+BoxPN,M247,51,17.53,1
+BoxPN,AS-GLOBALTELEHOST,32,11.0,2
+BoxPN,HOST-AS-AP Host Universal Pty Ltd,16,5.5,1
+BoxPN,FSNET-1,15,5.15,1
+BoxPN,ASN-VO Visual Online S.A. Luxembourg,14,4.81,1
+BoxPN,MYLOC-AS IP Backbone of WIIT AG formerly myLoc managed IT AG,11,3.78,1
+BoxPN,HQSERV_NETWORKS,10,3.44,1
+BoxPN,LEASEWEB-NL-AMS-01 Netherlands,10,3.44,1
+BoxPN,ARTNET,9,3.09,1
+BoxPN,ASN-XTUDIONET,9,3.09,1
+BoxPN,OVH,8,2.75,1
+BoxPN,SERVER24-AS INCUBATEC GmbH - Srl,8,2.75,1
+BoxPN,"UKSERVERS-AS UK Dedicated Servers, Hosting and Co-Location",8,2.75,1
+BoxPN,ESECUREDATA,7,2.41,1
+BoxPN,IOMART-IE,7,2.41,1
+BoxPN,VIRTUALSYSTEMS,7,2.41,1
+BoxPN,RADORE,6,2.06,1
+BoxPN,AS62904 - Eonix Corporation,5,1.72,1
+BoxPN,CREANOVA-AS Oy Creanova Hosting Solutions Ltd.,5,1.72,1
+BoxPN,Data Miners S.A.  Racknation.cr,5,1.72,1
+BoxPN,EHOSTIDC-AS-KR Hostcenter,5,1.72,1
+BoxPN,GIGAHOST,5,1.72,1
+BoxPN,IDIGITAL,5,1.72,1
+BoxPN,IOMART-AS,5,1.72,1
+BoxPN,Latitude.sh LTDA,5,1.72,1
+BoxPN,PLI-AS,5,1.72,1
+BoxPN,SHINJIRU-MY-AS-AP Shinjiru Technology Sdn Bhd,5,1.72,1
+BoxPN,TELE-AS Tele Asia Limited,5,1.72,1
+BoxPN,GTCOMM,4,1.37,1
+BoxPN,Online SAS,4,1.37,1
+Anonine,M247,51,16.78,1
+Anonine,AS-GLOBALTELEHOST,32,10.53,2
+Anonine,HOST-AS-AP Host Universal Pty Ltd,16,5.26,1
+Anonine,ASN-VO Visual Online S.A. Luxembourg,14,4.61,1
+Anonine,FSNET-1,14,4.61,1
+Anonine,GLESYS glesys.com,13,4.28,1
+Anonine,MYLOC-AS IP Backbone of WIIT AG formerly myLoc managed IT AG,11,3.62,1
+Anonine,HQSERV_NETWORKS,10,3.29,1
+Anonine,LEASEWEB-NL-AMS-01 Netherlands,10,3.29,1
+Anonine,ARTNET,9,2.96,1
+Anonine,ASN-XTUDIONET,9,2.96,1
+Anonine,"UKSERVERS-AS UK Dedicated Servers, Hosting and Co-Location",9,2.96,1
+Anonine,OVH,8,2.63,1
+Anonine,SERVER24-AS INCUBATEC GmbH - Srl,8,2.63,1
+Anonine,ESECUREDATA,7,2.3,1
+Anonine,IOMART-IE,7,2.3,1
+Anonine,VIRTUALSYSTEMS,7,2.3,1
+Anonine,RADORE,6,1.97,1
+Anonine,AS62904 - Eonix Corporation,5,1.64,1
+Anonine,CREANOVA-AS Oy Creanova Hosting Solutions Ltd.,5,1.64,1
+Anonine,Data Miners S.A.  Racknation.cr,5,1.64,1
+Anonine,EHOSTIDC-AS-KR Hostcenter,5,1.64,1
+Anonine,GIGAHOST,5,1.64,1
+Anonine,IDIGITAL,5,1.64,1
+Anonine,IOMART-AS,5,1.64,1
+Anonine,Latitude.sh LTDA,5,1.64,1
+Anonine,PLI-AS,5,1.64,1
+Anonine,SHINJIRU-MY-AS-AP Shinjiru Technology Sdn Bhd,5,1.64,1
+Anonine,TELE-AS Tele Asia Limited,5,1.64,1
+Anonine,GTCOMM,4,1.32,1
+Anonine,Online SAS,4,1.32,1
+CactusVPN,OVH,8,13.33,1
+CactusVPN,IOMART-AS,4,6.67,1
+CactusVPN,BV-EU-AS,3,5.0,1
+CactusVPN,ALEXHOST,2,3.33,1
+CactusVPN,GCORE,2,3.33,1
+CactusVPN,GLESYS glesys.com,2,3.33,1
+CactusVPN,HETZNER-AS,2,3.33,1
+CactusVPN,LEASEWEB-NL-AMS-01 Netherlands,2,3.33,1
+CactusVPN,LV-2CLOUD-ASN16,2,3.33,1
+CactusVPN,"ONEPROVIDER-AS BrainStorm Network, Inc",2,3.33,1
+CactusVPN,SMARTAPE,2,3.33,1
+CactusVPN,WII,2,3.33,1
+CactusVPN,ZETSERVERS ZetServers.com - Unmetered Cloud and Dedicated Servers Provider,2,3.33,1
+CactusVPN,ARUBA-ASN,1,1.67,1
+CactusVPN,CDNEXT,1,1.67,1
+CactusVPN,FDCSERVERS,1,1.67,1
+CactusVPN,I4W,1,1.67,1
+CactusVPN,KAOPU-HK Kaopu Cloud HK Limited,1,1.67,1
+CactusVPN,LATITUDE-SH,1,1.67,1
+CactusVPN,LEASEWEB-APAC-HKG-10 LEASEWEB HONG KONG LIMITED,1,1.67,1
+CactusVPN,M247,1,1.67,1
+CactusVPN,MFBANKA-AS,1,1.67,1
+CactusVPN,NUCLEARFALLOUT-ATL,1,1.67,1
+CactusVPN,NUCLEARFALLOUT-CHI,1,1.67,1
+CactusVPN,NUCLEARFALLOUT-DAL,1,1.67,1
+CactusVPN,NUCLEARFALLOUT-LAX,1,1.67,1
+CactusVPN,NUCLEARFALLOUT-NYC,1,1.67,1
+CactusVPN,NUCLEARFALLOUT-SEA,1,1.67,1
+CactusVPN,Online SAS,1,1.67,1
+CactusVPN,PLI-AS,1,1.67,1
+CactusVPN,QNAX LTDA,1,1.67,1
+CactusVPN,SERVER server.ua,1,1.67,1
+CactusVPN,SHINJIRU-MY-AS-AP Shinjiru Technology Sdn Bhd,1,1.67,1
+CactusVPN,SPECTRAIP SpectraIP B.V.,1,1.67,1
+CactusVPN,TELE-AS Tele Asia Limited,1,1.67,1
+CactusVPN,"TOPHOST-MD-AS R.Moldova, Chisinau, Paris 18A",1,1.67,1
+CactusVPN,ULTAHOST-AP-AS,1,1.67,1
+CactusVPN,VIRTUALSYSTEMS,1,1.67,1
+KevinVPN,CLOUVIDER Clouvider - Global ASN,8,11.94,1
+KevinVPN,FOURPLEX-ASN,5,7.46,1
+KevinVPN,CLOUDFLARENET,4,5.97,1
+KevinVPN,EVOLUS-IX,4,5.97,2
+KevinVPN,LINVEO-LLC,4,5.97,1
+KevinVPN,SOLID,4,5.97,1
+KevinVPN,OUIHEBERG,3,4.48,1
+KevinVPN,AS-3HCLOUD,2,2.99,1
+KevinVPN,ASN-GIGENET,2,2.99,1
+KevinVPN,CYBERSE Cyberse GmbH & Co. KG,2,2.99,1
+KevinVPN,DARTNODE,2,2.99,1
+KevinVPN,HEARTBEAT-IT,2,2.99,1
+KevinVPN,HIZAKURA-,2,2.99,1
+KevinVPN,HOSTBILBY,2,2.99,1
+KevinVPN,HOSTHATCH,2,2.99,1
+KevinVPN,HOSTUP HOSTUP,2,2.99,1
+KevinVPN,INFOMANIAK-AS,2,2.99,1
+KevinVPN,M247,2,2.99,1
+KevinVPN,ROYALE-AS,2,2.99,1
+KevinVPN,WAICORE-LTD WAICORE LTD,2,2.99,1
+KevinVPN,WEBHORIZON-AS-AP WebHorizon Internet Services,2,2.99,1
+KevinVPN,DE-FIRSTCOLO firstcolo.net,1,1.49,1
+KevinVPN,DELUXHOST,1,1.49,1
+KevinVPN,GHOST,1,1.49,1
+KevinVPN,HOSTKEY-AS,1,1.49,1
+KevinVPN,KUZEYDC,1,1.49,1
+KevinVPN,LOCLIXIT-AS,1,1.49,1
+KevinVPN,WEYRO,1,1.49,1
+Le VPN,M247,8,34.78,1
+Le VPN,GHOST,5,21.74,1
+Le VPN,EDIS-AS-EU,4,17.39,1
+Le VPN,COMVIVE-AS Seville - Spain,1,4.35,1
+Le VPN,GLESYS glesys.com,1,4.35,1
+Le VPN,KAOPU-HK Kaopu Cloud HK Limited,1,4.35,1
+Le VPN,LEASEWEB-USA-LAX,1,4.35,1
+Le VPN,THORDC-AS,1,4.35,1
+Le VPN,"UKSERVERS-AS UK Dedicated Servers, Hosting and Co-Location",1,4.35,1
+TunnelBear,M247,137,30.04,1
+TunnelBear,ZEN-ECN,101,22.15,1
+TunnelBear,DIGITALOCEAN-ASN,81,17.76,1
+TunnelBear,AKAMAI-LINODE-AP Akamai Connected Cloud,44,9.65,1
+TunnelBear,SITEHOST-AS-AP SiteHost New Zealand,20,4.39,1
+TunnelBear,AMC,16,3.51,1
+TunnelBear,LEASEWEB-APAC-HKG-10 LEASEWEB HONG KONG LIMITED,16,3.51,1
+TunnelBear,LIMESTONENETWORKS,16,3.51,1
+TunnelBear,LATITUDE-SH,7,1.54,1
+TunnelBear,AS-COLOCROSSING,6,1.32,1
+TunnelBear,UK2NET-AS,5,1.1,1
+TunnelBear,LEASEWEB-NL-AMS-01 Netherlands,3,0.66,1
+TunnelBear,AS-VULTR,2,0.44,1
+TunnelBear,ASSEFLOW,1,0.22,1
+TunnelBear,"ONEPROVIDER-AS BrainStorm Network, Inc",1,0.22,1
+ExpressVPN,SECFIREWALLAS,104,26.53,1
+ExpressVPN,GSLNETWORKS-AS-AP GSL Networks Pty LTD,87,22.19,1
+ExpressVPN,CDNEXT,38,9.69,1
+ExpressVPN,Latitude.sh LTDA,29,7.4,1
+ExpressVPN,UK2NET-AS,27,6.89,1
+ExpressVPN,CLOUVIDER Clouvider - Global ASN,22,5.61,1
+ExpressVPN,LATITUDE-SH,21,5.36,1
+ExpressVPN,M247,11,2.81,1
+ExpressVPN,ESTNOC-GLOBAL,8,2.04,1
+ExpressVPN,GLESYS glesys.com,8,2.04,1
+ExpressVPN,AS41564,6,1.53,1
+ExpressVPN,AS40676 - Psychz Networks,4,1.02,1
+ExpressVPN,"UKSERVERS-AS UK Dedicated Servers, Hosting and Co-Location",4,1.02,1
+ExpressVPN,VELIANET-AS velia.net Internetdienste GmbH,4,1.02,1
+ExpressVPN,IST-AS,3,0.77,1
+ExpressVPN,"KEMINET A datacenter located in TiranaAlbania. Webhosting, Dedicated Servers, VPS, IPv4IPv6 leasing",3,0.77,1
+ExpressVPN,LIMESTONENETWORKS,3,0.77,1
+ExpressVPN,CDN77 _,2,0.51,1
+ExpressVPN,PACKETEXCHANGE,2,0.51,1
+ExpressVPN,PROSERVICE,2,0.51,1
+ExpressVPN,TRABIA,2,0.51,1
+ExpressVPN,ZEN-ECN,2,0.51,1
+MoriVPN,ORACLE-BMC-31898,4,57.14,1
+MoriVPN,ROUTERHOSTING,2,28.57,1
+MoriVPN,RETEK,1,14.29,1
+Psiphon,AKAMAI-LINODE-AP Akamai Connected Cloud,121,28.14,1
+Psiphon,DIGITALOCEAN-ASN,100,23.26,1
+Psiphon,OVH,56,13.02,1
+Psiphon,"IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE.",30,6.98,1
+Psiphon,M247,29,6.74,1
+Psiphon,ALTUS,23,5.35,1
+Psiphon,ON2644819-NET,22,5.12,1
+Psiphon,Online SAS,16,3.72,1
+Psiphon,BEANFIELD,10,2.33,1
+Psiphon,COGENT-174,10,2.33,1
+Psiphon,CHERRYSERVERS1-AS,4,0.93,1
+Psiphon,FARDA-IX-LINK,4,0.93,1
+Psiphon,VOXILITY,4,0.93,1
+Psiphon,AS41564,1,0.23,1
+RedShield VPN,CDN77 _,12,32.43,1
+RedShield VPN,PRIVATE-NETWORKS,9,24.32,1
+RedShield VPN,M247,4,10.81,1
+RedShield VPN,HQSERV_NETWORKS,2,5.41,1
+RedShield VPN,RELIABLESITE,2,5.41,1
+RedShield VPN,SHOCK-1,2,5.41,1
+RedShield VPN,SRX TECNOLOGIA DA INFORMACAO LTDA,2,5.41,1
+RedShield VPN,AS-GLOBALTELEHOST,1,2.7,1
+RedShield VPN,AS-TEKNOSOS-INT,1,2.7,1
+RedShield VPN,"BANGMODENTERPRISE-TH Bangmod Enterprise Co., Ltd.",1,2.7,1
+RedShield VPN,CREANOVA-AS Oy Creanova Hosting Solutions Ltd.,1,2.7,1
+Kompot VPN,PLI-AS,13,20.97,1
+Kompot VPN,FAIRYHOSTING,8,12.9,1
+Kompot VPN,RELIABLESITE,8,12.9,1
+Kompot VPN,MEVSPACE,5,8.06,1
+Kompot VPN,PSKZ-ALA,5,8.06,1
+Kompot VPN,THE,5,8.06,1
+Kompot VPN,GCS-AS,4,6.45,1
+Kompot VPN,TIMEWEB-AS,4,6.45,1
+Kompot VPN,GIR-AS,3,4.84,1
+Kompot VPN,ONLYSERVERS Dedicated Server Hosting Provider,3,4.84,1
+Kompot VPN,ASBAXET,1,1.61,1
+Kompot VPN,Gigared S.A.,1,1.61,1
+Kompot VPN,NETROUTING-AS,1,1.61,1
+Kompot VPN,RU-AEZA-AS,1,1.61,1
+FreeVPN,PONYNET,10,38.46,1
+FreeVPN,LITESERVER,2,7.69,1
+FreeVPN,NUSANET-AS-ID PT. Media Antar Nusa,2,7.69,1
+FreeVPN,OVH,2,7.69,1
+FreeVPN,AS-COLOCROSSING,1,3.85,1
+FreeVPN,AS-GLOBALTELEHOST,1,3.85,1
+FreeVPN,ASNET,1,3.85,1
+FreeVPN,BRAINOZA,1,3.85,1
+FreeVPN,CYBERSE Cyberse GmbH & Co. KG,1,3.85,1
+FreeVPN,DARTNODE,1,3.85,1
+FreeVPN,DELUXHOST,1,3.85,1
+FreeVPN,ENTECHNOLOGIES-AS-AP EN Technologies Pte Ltd,1,3.85,1
+FreeVPN,FORTIS-AS Hosting services,1,3.85,1
+FreeVPN,MAKONIX,1,3.85,1
+OVPN,OBEHOSTING Obehosting AB,68,69.39,1
+OVPN,M247,15,15.31,1
+OVPN,CDNEXT,9,9.18,1
+OVPN,KEYWEB-AS,2,2.04,1
+OVPN,AMANAHA-NEW,1,1.02,1
+OVPN,ASSEFLOW,1,1.02,1
+OVPN,GLESYS glesys.com,1,1.02,1
+OVPN,OBE-NET,1,1.02,1
+HideIPVPN,OVH,11,30.56,1
+HideIPVPN,IOMART-AS,5,13.89,1
+HideIPVPN,LEASEWEB-NL-AMS-01 Netherlands,3,8.33,1
+HideIPVPN,AS-GLOBALTELEHOST,2,5.56,1
+HideIPVPN,HETZNER-AS,2,5.56,1
+HideIPVPN,INT-NETWORK,2,5.56,1
+HideIPVPN,LIVENET-,2,5.56,1
+HideIPVPN,THINKSYSTEMSUK-ASN,2,5.56,1
+HideIPVPN,ATLANTIC-NET-1,1,2.78,1
+HideIPVPN,INTERNETO-VIZIJA,1,2.78,1
+HideIPVPN,LEASEWEB-USA-WDC,1,2.78,1
+HideIPVPN,SERVERS-COM,1,2.78,1
+HideIPVPN,SMARTAPE,1,2.78,1
+HideIPVPN,UK2NET-AS,1,2.78,1
+HideIPVPN,UNI2-AS,1,2.78,1
+SlickVPN,UK2NET-AS,2,18.18,1
+SlickVPN,AKAMAI-LINODE-AP Akamai Connected Cloud,1,9.09,1
+SlickVPN,AXCELX-NET,1,9.09,1
+SlickVPN,CDM,1,9.09,1
+SlickVPN,EDIS-AS-EU,1,9.09,1
+SlickVPN,ENET-2,1,9.09,1
+SlickVPN,NOCIX,1,9.09,1
+SlickVPN,QUICKPACKET,1,9.09,1
+SlickVPN,RELIABLESITE,1,9.09,1
+SlickVPN,THEOPT-HOU,1,9.09,1
+Getflix,AS-VULTR,2,9.52,1
+Getflix,DIGITALOCEAN-ASN,2,9.52,1
+Getflix,M247,2,9.52,1
+Getflix,TR-PENTECH-AS,2,9.52,1
+Getflix,AMANAHA-NEW,1,4.76,1
+Getflix,AS-SERVERION,1,4.76,1
+Getflix,AS-SERVERION Serverion B.V.,1,4.76,1
+Getflix,AS45671-NET-AU Wholesale Services Provider,1,4.76,1
+Getflix,ASERGO-AS,1,4.76,1
+Getflix,ATLANTIC-NET-1,1,4.76,1
+Getflix,CDN77 _,1,4.76,1
+Getflix,ENZUINC-,1,4.76,1
+Getflix,GLESYS glesys.com,1,4.76,1
+Getflix,IPHOST .GR IpDomain,1,4.76,1
+Getflix,PLI-AS,1,4.76,1
+Getflix,SERVETHEWORLD-AS,1,4.76,1
+Getflix,UK2NET-AS,1,4.76,1
+Hide.me,AS-DATASOURCE,1,33.33,1
+Hide.me,NOCIX,1,33.33,1
+Hide.me,SOLLUTIUM-NL,1,33.33,1
+Cryptostorm,M247,47,61.84,1
+Cryptostorm,ALEXHOST,2,2.63,1
+Cryptostorm,ALTUS,2,2.63,1
+Cryptostorm,H4Y-TECHNOLOGIES,2,2.63,1
+Cryptostorm,HOSTROYALE,2,2.63,1
+Cryptostorm,IOMART-AS,2,2.63,1
+Cryptostorm,LEASEWEB-USA-DAL,2,2.63,1
+Cryptostorm,LEASEWEB-USA-SEA,2,2.63,1
+Cryptostorm,LEASEWEB-USA-WDC,2,2.63,1
+Cryptostorm,Latitude.sh LTDA,2,2.63,1
+Cryptostorm,MYLOC-AS IP Backbone of WIIT AG formerly myLoc managed IT AG,2,2.63,1
+Cryptostorm,NFORCE,2,2.63,1
+Cryptostorm,Online SAS,2,2.63,1
+Cryptostorm,PACKETEXCHANGE,2,2.63,1
+Cryptostorm,PLI-AS,2,2.63,1
+Cryptostorm,"M247-UK M247 UK Ltd, trading as M247",1,1.32,1
+BTGuard,NFORCE,7,70.0,1
+BTGuard,AMANAHA-NEW,1,10.0,1
+BTGuard,AS-VULTR,1,10.0,1
+BTGuard,MELBICOM-EU-AS Melbikomas UAB,1,10.0,1
+KeyDrop,BEGET-AS,3,21.43,1
+KeyDrop,TIMEWEB-AS,3,21.43,1
+KeyDrop,VDSINA,3,21.43,1
+KeyDrop,AEZA-AS,1,7.14,1
+KeyDrop,MTW-AS,1,7.14,1
+KeyDrop,NETCUP-AS netcup GmbH,1,7.14,1
+KeyDrop,RU-JSCIOT,1,7.14,1
+KeyDrop,YANDEXCLOUD,1,7.14,1
+Goosevpn,M247,38,76.0,1
+Goosevpn,DIGITALOCEAN-ASN,7,14.0,1
+Goosevpn,PROLOCATION Prolocation,3,6.0,1
+Goosevpn,ATT-INTERNET4,1,2.0,1
+Goosevpn,"M247-UK M247 UK Ltd, trading as M247",1,2.0,1
+SmartVPN,DIGITALOCEAN-ASN,3,25.0,1
+SmartVPN,GTCOMM,3,25.0,1
+SmartVPN,COMVIVE-AS Seville - Spain,1,8.33,1
+SmartVPN,GLESYS glesys.com,1,8.33,1
+SmartVPN,INTERHOST,1,8.33,1
+SmartVPN,NINE,1,8.33,1
+SmartVPN,OPTIMUS-AS,1,8.33,1
+SmartVPN,Online SAS,1,8.33,1
+Octanevpn,AMAZON-AES,2,100.0,1
+Perimeter81,AMAZON-02,16,100.0,1
+uVPN,DIGITALOCEAN-ASN,10,38.46,1
+uVPN,OVH,7,26.92,1
+uVPN,M247,3,11.54,1
+uVPN,HETZNER-AS,2,7.69,1
+uVPN,AS-VULTR,1,3.85,1
+uVPN,GHOST,1,3.85,1
+uVPN,HSO-GROUP,1,3.85,1
+uVPN,IOMART-AS,1,3.85,1
+PhantomPeer,DIGITALOCEAN-ASN,14,70.0,1
+PhantomPeer,GLESYS glesys.com,2,10.0,1
+PhantomPeer,M247,2,10.0,1
+PhantomPeer,NINE,2,10.0,1
+Privado,BIP-AS BIP Backbone ASN,89,52.05,1
+Privado,BASEIP-LAX,44,25.73,1
+Privado,BASEIP,28,16.37,1
+Privado,HOSTROYALE,9,5.26,1
+Privado,M247,1,0.58,1
+NetShade,OVH,13,72.22,1
+NetShade,CDN77 _,1,5.56,1
+NetShade,HSI-EUROPE,1,5.56,1
+NetShade,HURRICANE,1,5.56,1
+NetShade,LEASEWEB-UK-LON-11,1,5.56,1
+NetShade,VELIANET-AS velia.net Internetdienste GmbH,1,5.56,1
+VPNSTunnel,DIGITALOCEAN-ASN,4,100.0,1
+WorkingVPN,OVH,3,100.0,1
+LimeVPN,NUCLEARFALLOUT-CHI,1,25.0,1
+LimeVPN,NUCLEARFALLOUT-DAL,1,25.0,1
+LimeVPN,NUCLEARFALLOUT-FRA,1,25.0,1
+LimeVPN,NUCLEARFALLOUT-LAX,1,25.0,1
+Proxpn,FDCSERVERS,8,33.33,1
+Proxpn,AS-VULTR,3,12.5,1
+Proxpn,Unknown,3,12.5,0
+Proxpn,AMANAHA-NEW,2,8.33,1
+Proxpn,LEASEWEB-APAC-SIN-11 LEASEWEB SINGAPORE PTE. LTD.,2,8.33,1
+Proxpn,"UKSERVERS-AS UK Dedicated Servers, Hosting and Co-Location",2,8.33,1
+Proxpn,LEASEWEB-APAC-HKG-10 LEASEWEB HONG KONG LIMITED,1,4.17,1
+Proxpn,NINE,1,4.17,1
+Proxpn,RADIOGRAFICA COSTARRICENSE,1,4.17,1
+Proxpn,THORDC-AS,1,4.17,1
+Riseup VPN,Online SAS,13,61.9,1
+Riseup VPN,RISEUP,3,14.29,1
+Riseup VPN,CDN77 _,2,9.52,1
+Riseup VPN,KOUMBIT,2,9.52,1
+Riseup VPN,CALYX-AS,1,4.76,1
+Vpnfacile,OVH,5,71.43,1
+Vpnfacile,FREETHOUGHT-AS,1,14.29,1
+Vpnfacile,FRONTIER-FRTR,1,14.29,1
+VPNObratno,ROSTELECOM-AS PJSC Rostelecom. Technical Team,6,60.0,1
+VPNObratno,ERTH-OMSK-AS,1,10.0,1
+VPNObratno,ESAMARA-AS,1,10.0,1
+VPNObratno,RAY-AS,1,10.0,1
+VPNObratno,TRINITY-AS,1,10.0,1
+Froot,GLESYS glesys.com,10,45.45,1
+Froot,FSNET-1,3,13.64,1
+Froot,M247,2,9.09,1
+Froot,AS-GLOBALTELEHOST,1,4.55,1
+Froot,AS62904 - Eonix Corporation,1,4.55,1
+Froot,ESECUREDATA,1,4.55,1
+Froot,GTCOMM,1,4.55,1
+Froot,IDIGITAL,1,4.55,1
+Froot,OVH,1,4.55,1
+Froot,PLI-AS,1,4.55,1
+Freevpn,OVH,1,33.33,1
+Freevpn,Online SAS,1,33.33,1
+Freevpn,WORLDSTREAM,1,33.33,1
+Freedomip,SAS-SHPV-FRANCE,5,100.0,1
+Anonvpn,Unknown,4,57.14,0
+Anonvpn,AMANAHA-NEW,1,14.29,1
+Anonvpn,FDCSERVERS,1,14.29,1
+Anonvpn,"UKSERVERS-AS UK Dedicated Servers, Hosting and Co-Location",1,14.29,1
+Njalla,ABSTRACT,241,100.0,1
+SSHMax,GRANSY Gransy s.r.o. gransy.com,18,100.0,1
+Vpnbook,OVH,2,100.0,1
+Opera VPN,HERNLABS,38,100.0,1
+Integrityvpn,BAHNHOF,1,100.0,1
