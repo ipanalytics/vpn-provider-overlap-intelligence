@@ -1,150 +1,311 @@
 # VPN Provider Overlap Intelligence
 
-Public aggregate analysis of VPN provider infrastructure relationships.
 
-This repository does **not** publish raw VPN IP lists. It publishes aggregate signals that can help researchers understand when VPN brands appear to share backend infrastructure, hosting operators, or network footprints.
+<p align="center">
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/license-CC%20BY--NC%204.0-blue" alt="License">
+  </a>
 
-VPN Provider Overlap Intelligence is a public aggregate network intelligence dataset for VPN detection research, IP reputation, fraud detection, and proxy/VPN infrastructure analysis.
+  <a href="https://github.com/ipanalytics/vpn-provider-overlap-intelligence">
+    <img src="https://img.shields.io/github/last-commit/ipanalytics/vpn-provider-overlap-intelligence" alt="Last Commit">
+  </a>
+  <a href="https://github.com/ipanalytics/vpn-provider-overlap-intelligence">
+    <img src="https://img.shields.io/badge/dataset-active-success" alt="Dataset">
+  </a>
+  <a href="https://github.com/ipanalytics/vpn-provider-overlap-intelligence">
+    <img src="https://img.shields.io/badge/focus-provider_overlap-informational" alt="Focus">
+  </a>
+  <a href="https://github.com/ipanalytics/vpn-provider-overlap-intelligence">
+    <img src="https://img.shields.io/badge/exports-csv-informational" alt="Exports">
+  </a>
+</p>
 
-It focuses on VPN provider infrastructure overlap: exact shared IP observations, shared /24 prefixes, hosting provider dependency, ASN organization footprint, and provider relationship clusters.
+---
 
-The analysis is designed for defensive research, fraud/risk feature engineering, source-quality review, and VPN/proxy detection methodology.
+VPN Provider Overlap Intelligence is a public aggregate dataset for analyzing shared VPN infrastructure patterns across providers, hosting operators, ASNs, and network ranges.
 
-## What This Is
+The project focuses on infrastructure overlap signals derived from observed VPN network footprints, including exact shared IP observations, shared `/24` prefixes, hosting concentration, and provider relationship clustering.
 
-VPN brands often market themselves as independent services, but the infrastructure layer can be less independent than the brand layer. This project looks at observable infrastructure relationships using several evidence layers:
+The repository intentionally avoids publishing raw VPN IP inventories.
 
-| Evidence Layer | Strength | Meaning |
-|---|---:|---|
-| Exact shared IP | Strong | The same IP was observed under multiple VPN provider names. |
-| Shared `/24` prefix | Medium | Providers appear in the same small network block, without publishing raw IPs. |
-| Shared ASN / hosting org | Context | Providers use the same network operator or hosting footprint. |
-| Provider concentration | Context | A provider depends heavily on one hosting operator or is broadly distributed. |
-| Relationship cluster | Derived | Providers connected by repeated exact-IP overlap. |
+---
 
-## What This Is Not
+## Overview
 
-This is not a blocklist. It is not a claim of common ownership, malicious behavior, provider compromise, or affiliation.
+VPN providers frequently depend on overlapping infrastructure ecosystems:
 
-Shared infrastructure can happen for many ordinary reasons:
+* shared hosting providers
+* leased datacenter ranges
+* reseller platforms
+* recycled address pools
+* common backend operators
 
-- reseller or white-label VPN platforms;
-- common hosting providers;
-- provider migrations;
-- reused IP pools;
-- public source artifacts;
-- stale or duplicated source names.
+This repository analyzes observable overlap relationships and publishes aggregate signals suitable for:
 
-Use this as an enrichment signal, not as final attribution.
+* fraud detection
+* VPN/proxy research
+* infrastructure clustering
+* IP reputation enrichment
+* source quality analysis
+* risk feature engineering
 
-## Key Findings From This Snapshot
+The project is designed for analytical and defensive workflows rather than enforcement automation.
 
-### Strong exact-IP overlap cluster
+---
 
-The strongest observed cluster is:
+## Evidence Model
 
-```text
+Relationship analysis combines multiple independent infrastructure signals.
+
+| Evidence Layer        | Strength | Description                                           |
+| --------------------- | -------: | ----------------------------------------------------- |
+| Exact shared IP       |   Strong | Same IP observed under multiple provider identities   |
+| Shared `/24`          |   Medium | Providers overlap inside the same small network block |
+| Shared ASN            |  Context | Providers share hosting/operator footprint            |
+| Hosting concentration |  Context | Provider dependence on infrastructure operators       |
+| Relationship cluster  |  Derived | Repeated overlap across providers and networks        |
+
+The public score is heuristic and bounded. It is not an ownership assertion.
+
+---
+
+## Architecture
+
+```text id="jlwm31"
+             VPN Infrastructure Sources
+                          │
+       ┌──────────────────┼──────────────────┐
+       │                  │                  │
+       ▼                  ▼                  ▼
+   IP Observations    ASN Enrichment    Prefix Analysis
+       │                  │                  │
+       └──────────────────┴─────────┬────────┘
+                                    ▼
+                         Relationship Engine
+                 exact IP /24 / ASN correlation
+                                    ▼
+                           Cluster Analysis
+                                    ▼
+                              CSV Exports
+```
+
+---
+
+## Key Snapshot Findings
+
+### Strong Exact-IP Overlap Cluster
+
+```text id="jlwm32"
 Anonine, BoxPN, EasyHideIP, Froot, FrootVPN
 ```
 
-This cluster has high exact-IP overlap across many ASNs and `/24` prefixes. It is a strong infrastructure-overlap signal, but it should not be interpreted as proof of ownership.
+This cluster shows repeated exact-IP overlap across multiple ASNs and network ranges.
 
-### Top provider pairs by exact shared IPs
+The signal indicates strong infrastructure relationship evidence, but should not be interpreted as definitive ownership attribution.
 
-| Provider A | Provider B | Score | Confidence | Shared Exact IPs | Shared /24 | Shared ASNs |
-|---|---|---:|---|---:|---:|---:|
-| Anonine | BoxPN | 100 | high | 290 | 56 | 31 |
-| Anonine | EasyHideIP | 100 | high | 285 | 55 | 30 |
-| Anonine | FrootVPN | 100 | high | 285 | 55 | 30 |
-| BoxPN | EasyHideIP | 100 | high | 285 | 55 | 30 |
-| BoxPN | FrootVPN | 100 | high | 285 | 55 | 30 |
-| EasyHideIP | FrootVPN | 100 | high | 285 | 55 | 30 |
-| Ivacy | PureVPN | 79 | high | 27 | 20 | 9 |
-| Getflix | Smartdnsproxy | 65 | medium | 18 | 18 | 15 |
-| GhostPath | SlickVPN | 56 | medium | 11 | 11 | 10 |
+---
 
-### Top hosting footprints
+## Top Provider Pairs
 
-| Hosting / ASN Org | Unique VPN IPs | Providers | Top Providers |
-|---|---:|---:|---|
-| CDNEXT | 5,282 | 21 | NordVPN, CyberGhost, ProtonVPN, Windscribe, Astrill |
-| M247 | 4,709 | 50 | NordVPN, CyberGhost, AirVPN, ProtonVPN, TorGuard |
-| NETPROTECT-62651 | 3,190 | 3 | WLVPN, IPVanish, StrongVPN |
-| CLOUVIDER Clouvider - Global ASN | 2,844 | 10 | NordVPN, WLVPN, IPVanish, Astrill |
-| PACKETHUBSA-AS-AP PacketHub S.A. | 2,186 | 1 | NordVPN |
+| Provider A | Provider B    | Score | Confidence | Shared Exact IPs | Shared `/24` | Shared ASNs |
+| ---------- | ------------- | ----: | ---------- | ---------------: | -----------: | ----------: |
+| Anonine    | BoxPN         |   100 | high       |              290 |           56 |          31 |
+| Anonine    | EasyHideIP    |   100 | high       |              285 |           55 |          30 |
+| Anonine    | FrootVPN      |   100 | high       |              285 |           55 |          30 |
+| BoxPN      | EasyHideIP    |   100 | high       |              285 |           55 |          30 |
+| BoxPN      | FrootVPN      |   100 | high       |              285 |           55 |          30 |
+| EasyHideIP | FrootVPN      |   100 | high       |              285 |           55 |          30 |
+| Ivacy      | PureVPN       |    79 | high       |               27 |           20 |           9 |
+| Getflix    | Smartdnsproxy |    65 | medium     |               18 |           18 |          15 |
+| GhostPath  | SlickVPN      |    56 | medium     |               11 |           11 |          10 |
 
-## Data Files
+---
 
-| File | Description |
-|---|---|
-| [`data/provider_pair_exact_overlap.csv`](data/provider_pair_exact_overlap.csv) | Provider-pair relationship scores based on exact shared IPs, shared `/24`, and shared ASNs. |
-| [`data/provider_relationship_clusters.csv`](data/provider_relationship_clusters.csv) | Provider clusters connected by repeated exact-IP overlap. |
-| [`data/shared_prefix_examples.csv`](data/shared_prefix_examples.csv) | Safe `/24` examples where 3+ VPN provider names overlap. No raw IPs. |
-| [`data/provider_hosting_dependency.csv`](data/provider_hosting_dependency.csv) | Per-provider dependency on hosting / ASN organizations. |
-| [`data/hosting_company_footprint.csv`](data/hosting_company_footprint.csv) | Hosting organizations ranked by VPN IP footprint and provider count. |
-| [`data/provider_independence_score.csv`](data/provider_independence_score.csv) | Provider distribution and concentration score. |
+## Top Hosting Footprints
 
-## Relationship Score
+| Hosting Organization | VPN IPs | Providers | Example Providers              |
+| -------------------- | ------: | --------: | ------------------------------ |
+| CDNEXT               |   5,282 |        21 | NordVPN, CyberGhost, ProtonVPN |
+| M247                 |   4,709 |        50 | NordVPN, AirVPN, ProtonVPN     |
+| NETPROTECT-62651     |   3,190 |         3 | WLVPN, IPVanish, StrongVPN     |
+| CLOUVIDER            |   2,844 |        10 | NordVPN, Astrill, IPVanish     |
+| PACKETHUBSA-AS-AP    |   2,186 |         1 | NordVPN                        |
 
-The public score is a bounded heuristic, not a legal or ownership conclusion.
+---
 
-Signals used:
+## Published Datasets
 
-- exact shared IP count;
-- shared `/24` prefix count;
-- shared ASN count.
+| File                                 | Description                                      |
+| ------------------------------------ | ------------------------------------------------ |
+| `provider_pair_exact_overlap.csv`    | Provider overlap relationship scores             |
+| `provider_relationship_clusters.csv` | Multi-provider overlap clusters                  |
+| `shared_prefix_examples.csv`         | `/24` overlap examples without raw IP disclosure |
+| `provider_hosting_dependency.csv`    | Per-provider hosting concentration               |
+| `hosting_company_footprint.csv`      | Hosting footprint rankings                       |
+| `provider_independence_score.csv`    | Infrastructure concentration metrics             |
 
-Confidence levels:
+---
 
-| Confidence | Meaning |
-|---|---|
-| high | Strong repeated exact-IP evidence. |
-| medium | Meaningful overlap, but needs additional context. |
-| low | Weak signal; useful only for investigation. |
+## Relationship Scoring
 
-## Safe Use
+The scoring model combines:
 
-Good uses:
+* exact shared IP counts
+* shared `/24` counts
+* shared ASN counts
 
-- VPN/proxy detection enrichment;
-- provider clustering research;
-- risk feature engineering;
-- source quality review;
-- identifying infrastructure concentration.
+### Confidence Levels
 
-Bad uses:
+| Confidence | Meaning                              |
+| ---------- | ------------------------------------ |
+| `high`     | Repeated strong exact-IP overlap     |
+| `medium`   | Meaningful overlap requiring context |
+| `low`      | Weak or sparse overlap signal        |
 
-- blocking an entire ASN;
-- claiming common ownership from overlap alone;
-- labeling every IP in a `/24` as VPN;
-- using old overlap without freshness checks;
-- treating this as a complete VPN database.
+Scores are intended for analytical weighting, not binary classification.
+
+---
+
+## Usage Examples
+
+### Download overlap scores
+
+```bash id="jlwm33"
+curl -fsSLO \
+  https://raw.githubusercontent.com/ipanalytics/vpn-provider-overlap-intelligence/main/data/provider_pair_exact_overlap.csv
+```
+
+### Extract high-confidence provider pairs
+
+```bash id="jlwm34"
+awk -F, '$4 == "high" { print }' \
+  provider_pair_exact_overlap.csv
+```
+
+### Find infrastructure clusters
+
+```bash id="jlwm35"
+grep -i "NordVPN" \
+  provider_relationship_clusters.csv
+```
+
+### Analyze hosting concentration
+
+```bash id="jlwm36"
+sort -t, -k2 -nr \
+  hosting_company_footprint.csv | head
+```
+
+---
+
+## Operational Use Cases
+
+| Domain           | Example                              |
+| ---------------- | ------------------------------------ |
+| Fraud Detection  | VPN infrastructure correlation       |
+| SIEM Enrichment  | Provider relationship context        |
+| Threat Hunting   | Shared-hosting analysis              |
+| Research         | VPN ecosystem mapping                |
+| Abuse Prevention | Infrastructure concentration signals |
+| Analytics        | Hosting dependency analysis          |
+
+---
+
+## Safe Interpretation
+
+Infrastructure overlap alone does not imply:
+
+* common ownership
+* provider compromise
+* malicious activity
+* operational coordination
+
+Shared infrastructure can result from:
+
+* reseller platforms
+* datacenter reuse
+* leased address pools
+* provider migrations
+* stale upstream datasets
+* white-label VPN ecosystems
+
+The datasets should be treated as contextual infrastructure signals.
+
+---
 
 ## Methodology
 
-See [`docs/methodology.md`](docs/methodology.md).
+Additional methodology details:
 
-## Safe Interpretation Notes
+```text id="jlwm37"
+docs/methodology.md
+```
 
-See [`docs/safe_interpretation.md`](docs/safe_interpretation.md).
+Safe interpretation guidance:
 
-## Use Cases
+```text id="jlwm38"
+docs/safe_interpretation.md
+```
 
-- VPN and proxy detection research
-- IP reputation enrichment
-- fraud and abuse risk scoring
-- provider infrastructure clustering
-- source quality review
-- hosting dependency analysis
-- network intelligence investigations
+---
+
+## Design Goals
+
+* aggregate-only publication
+* infrastructure-focused analysis
+* no raw VPN endpoint disclosure
+* lightweight CSV exports
+* reproducible overlap analysis
+* operationally safe enrichment signals
+
+---
 
 ## Not Intended For
 
-- blocking entire ASNs;
-- claiming common provider ownership;
-- labeling all IPs in a /24 as VPN;
-- replacing IP-level VPN detection;
-- legal, compliance, or enforcement decisions without additional verification.
+The project is not intended for:
 
-CC BY-NC 4.0
+* ASN-wide blocking
+* ownership attribution
+* legal/compliance conclusions
+* standalone VPN detection
+* automated enforcement without additional telemetry
 
+---
+
+## Repository Layout
+
+```text id="jlwm39"
+.
+├── data/
+├── docs/
+├── scripts/
+├── LICENSE
+└── README.md
+```
+
+---
+
+## Roadmap
+
+Planned additions:
+
+* temporal overlap analysis
+* ASN historical trends
+* IPv6 overlap support
+* confidence weighting improvements
+* provider alias normalization
+* infrastructure lineage tracking
+
+---
+
+## License
+
+Licensed under CC BY-NC 4.0.
+
+See [`LICENSE`](./LICENSE).
+
+---
+
+## Disclaimer
+
+This repository publishes aggregate infrastructure overlap signals derived from observed VPN network patterns. The datasets are intended for analytical, operational, and defensive research workflows and should not be treated as definitive attribution evidence.
